@@ -1,0 +1,2569 @@
+COU,Inventor country,Technology domain,Year,Value
+AUS,Australia,Environment-related technologies,1995,134.83
+AUS,Australia,Environment-related technologies,2000,203.42
+AUS,Australia,Environment-related technologies,2005,263.75
+AUS,Australia,Environment-related technologies,2010,313.85
+AUS,Australia,Environment-related technologies,2011,305.68
+AUS,Australia,Environment-related technologies,2012,267.7
+AUS,Australia,Environment-related technologies,2013,270.65
+AUS,Australia,Environment-related technologies,2014,275.37
+AUS,Australia,Environment-related technologies,2015,267.45
+AUS,Australia,Environment-related technologies,2016,283.2
+AUS,Australia,Environment-related technologies,2017,268.69
+AUS,Australia,Environment-related technologies,2018,235.57
+AUS,Australia,Environment-related technologies,2019,251.7
+AUS,Australia,Air pollution abatement,1995,26.83
+AUS,Australia,Air pollution abatement,2000,28.17
+AUS,Australia,Air pollution abatement,2005,44.83
+AUS,Australia,Air pollution abatement,2010,41.67
+AUS,Australia,Air pollution abatement,2011,40.5
+AUS,Australia,Air pollution abatement,2012,33.75
+AUS,Australia,Air pollution abatement,2013,33.58
+AUS,Australia,Air pollution abatement,2014,21.5
+AUS,Australia,Air pollution abatement,2015,23.08
+AUS,Australia,Air pollution abatement,2016,23.0
+AUS,Australia,Air pollution abatement,2017,34.33
+AUS,Australia,Air pollution abatement,2018,22.0
+AUS,Australia,Air pollution abatement,2019,19.2
+AUT,Austria,Environment-related technologies,1995,135.33
+AUT,Austria,Environment-related technologies,2000,214.15
+AUT,Austria,Environment-related technologies,2005,230.5
+AUT,Austria,Environment-related technologies,2010,396.06
+AUT,Austria,Environment-related technologies,2011,397.6
+AUT,Austria,Environment-related technologies,2012,407.05
+AUT,Austria,Environment-related technologies,2013,326.56
+AUT,Austria,Environment-related technologies,2014,356.14
+AUT,Austria,Environment-related technologies,2015,355.98
+AUT,Austria,Environment-related technologies,2016,327.33
+AUT,Austria,Environment-related technologies,2017,357.53
+AUT,Austria,Environment-related technologies,2018,361.06
+AUT,Austria,Environment-related technologies,2019,359.93
+AUT,Austria,Air pollution abatement,1995,38.0
+AUT,Austria,Air pollution abatement,2000,67.0
+AUT,Austria,Air pollution abatement,2005,82.58
+AUT,Austria,Air pollution abatement,2010,93.09
+AUT,Austria,Air pollution abatement,2011,87.5
+AUT,Austria,Air pollution abatement,2012,77.03
+AUT,Austria,Air pollution abatement,2013,53.64
+AUT,Austria,Air pollution abatement,2014,100.17
+AUT,Austria,Air pollution abatement,2015,99.17
+AUT,Austria,Air pollution abatement,2016,77.17
+AUT,Austria,Air pollution abatement,2017,61.17
+AUT,Austria,Air pollution abatement,2018,102.5
+AUT,Austria,Air pollution abatement,2019,49.5
+BEL,Belgium,Environment-related technologies,1995,57.82
+BEL,Belgium,Environment-related technologies,2000,109.6
+BEL,Belgium,Environment-related technologies,2005,145.87
+BEL,Belgium,Environment-related technologies,2010,224.48
+BEL,Belgium,Environment-related technologies,2011,192.27
+BEL,Belgium,Environment-related technologies,2012,197.87
+BEL,Belgium,Environment-related technologies,2013,215.71
+BEL,Belgium,Environment-related technologies,2014,216.48
+BEL,Belgium,Environment-related technologies,2015,216.31
+BEL,Belgium,Environment-related technologies,2016,237.94
+BEL,Belgium,Environment-related technologies,2017,230.17
+BEL,Belgium,Environment-related technologies,2018,243.02
+BEL,Belgium,Environment-related technologies,2019,172.85
+BEL,Belgium,Air pollution abatement,1995,11.03
+BEL,Belgium,Air pollution abatement,2000,27.2
+BEL,Belgium,Air pollution abatement,2005,35.32
+BEL,Belgium,Air pollution abatement,2010,35.33
+BEL,Belgium,Air pollution abatement,2011,37.87
+BEL,Belgium,Air pollution abatement,2012,32.5
+BEL,Belgium,Air pollution abatement,2013,36.83
+BEL,Belgium,Air pollution abatement,2014,63.08
+BEL,Belgium,Air pollution abatement,2015,47.78
+BEL,Belgium,Air pollution abatement,2016,44.93
+BEL,Belgium,Air pollution abatement,2017,39.73
+BEL,Belgium,Air pollution abatement,2018,51.53
+BEL,Belgium,Air pollution abatement,2019,28.67
+CAN,Canada,Environment-related technologies,1995,214.25
+CAN,Canada,Environment-related technologies,2000,361.87
+CAN,Canada,Environment-related technologies,2005,554.58
+CAN,Canada,Environment-related technologies,2010,756.05
+CAN,Canada,Environment-related technologies,2011,781.7
+CAN,Canada,Environment-related technologies,2012,746.43
+CAN,Canada,Environment-related technologies,2013,719.59
+CAN,Canada,Environment-related technologies,2014,688.98
+CAN,Canada,Environment-related technologies,2015,658.23
+CAN,Canada,Environment-related technologies,2016,664.19
+CAN,Canada,Environment-related technologies,2017,753.81
+CAN,Canada,Environment-related technologies,2018,699.87
+CAN,Canada,Environment-related technologies,2019,705.68
+CAN,Canada,Air pollution abatement,1995,35.5
+CAN,Canada,Air pollution abatement,2000,69.67
+CAN,Canada,Air pollution abatement,2005,88.5
+CAN,Canada,Air pollution abatement,2010,94.04
+CAN,Canada,Air pollution abatement,2011,78.33
+CAN,Canada,Air pollution abatement,2012,89.07
+CAN,Canada,Air pollution abatement,2013,93.57
+CAN,Canada,Air pollution abatement,2014,108.63
+CAN,Canada,Air pollution abatement,2015,78.0
+CAN,Canada,Air pollution abatement,2016,82.12
+CAN,Canada,Air pollution abatement,2017,75.5
+CAN,Canada,Air pollution abatement,2018,94.5
+CAN,Canada,Air pollution abatement,2019,66.0
+CZE,Czech Republic,Environment-related technologies,1995,9.33
+CZE,Czech Republic,Environment-related technologies,2000,12.17
+CZE,Czech Republic,Environment-related technologies,2005,23.33
+CZE,Czech Republic,Environment-related technologies,2010,43.48
+CZE,Czech Republic,Environment-related technologies,2011,50.07
+CZE,Czech Republic,Environment-related technologies,2012,45.67
+CZE,Czech Republic,Environment-related technologies,2013,55.75
+CZE,Czech Republic,Environment-related technologies,2014,51.67
+CZE,Czech Republic,Environment-related technologies,2015,43.75
+CZE,Czech Republic,Environment-related technologies,2016,65.58
+CZE,Czech Republic,Environment-related technologies,2017,63.89
+CZE,Czech Republic,Environment-related technologies,2018,59.14
+CZE,Czech Republic,Environment-related technologies,2019,53.1
+CZE,Czech Republic,Air pollution abatement,1995,1.0
+CZE,Czech Republic,Air pollution abatement,2000,0.83
+CZE,Czech Republic,Air pollution abatement,2005,5.83
+CZE,Czech Republic,Air pollution abatement,2010,6.83
+CZE,Czech Republic,Air pollution abatement,2011,8.0
+CZE,Czech Republic,Air pollution abatement,2012,5.5
+CZE,Czech Republic,Air pollution abatement,2013,8.67
+CZE,Czech Republic,Air pollution abatement,2014,11.17
+CZE,Czech Republic,Air pollution abatement,2015,9.83
+CZE,Czech Republic,Air pollution abatement,2016,15.92
+CZE,Czech Republic,Air pollution abatement,2017,19.5
+CZE,Czech Republic,Air pollution abatement,2018,23.0
+CZE,Czech Republic,Air pollution abatement,2019,6.5
+DNK,Denmark,Environment-related technologies,1995,62.5
+DNK,Denmark,Environment-related technologies,2000,103.83
+DNK,Denmark,Environment-related technologies,2005,180.87
+DNK,Denmark,Environment-related technologies,2010,465.15
+DNK,Denmark,Environment-related technologies,2011,506.37
+DNK,Denmark,Environment-related technologies,2012,422.43
+DNK,Denmark,Environment-related technologies,2013,344.22
+DNK,Denmark,Environment-related technologies,2014,360.57
+DNK,Denmark,Environment-related technologies,2015,326.86
+DNK,Denmark,Environment-related technologies,2016,424.83
+DNK,Denmark,Environment-related technologies,2017,379.5
+DNK,Denmark,Environment-related technologies,2018,432.42
+DNK,Denmark,Environment-related technologies,2019,401.42
+DNK,Denmark,Air pollution abatement,1995,13.5
+DNK,Denmark,Air pollution abatement,2000,17.0
+DNK,Denmark,Air pollution abatement,2005,22.37
+DNK,Denmark,Air pollution abatement,2010,68.98
+DNK,Denmark,Air pollution abatement,2011,25.42
+DNK,Denmark,Air pollution abatement,2012,39.17
+DNK,Denmark,Air pollution abatement,2013,37.0
+DNK,Denmark,Air pollution abatement,2014,72.67
+DNK,Denmark,Air pollution abatement,2015,36.58
+DNK,Denmark,Air pollution abatement,2016,45.5
+DNK,Denmark,Air pollution abatement,2017,35.67
+DNK,Denmark,Air pollution abatement,2018,32.0
+DNK,Denmark,Air pollution abatement,2019,33.83
+FIN,Finland,Environment-related technologies,1995,75.42
+FIN,Finland,Environment-related technologies,2000,105.58
+FIN,Finland,Environment-related technologies,2005,159.33
+FIN,Finland,Environment-related technologies,2010,257.02
+FIN,Finland,Environment-related technologies,2011,307.02
+FIN,Finland,Environment-related technologies,2012,310.39
+FIN,Finland,Environment-related technologies,2013,263.33
+FIN,Finland,Environment-related technologies,2014,240.58
+FIN,Finland,Environment-related technologies,2015,206.15
+FIN,Finland,Environment-related technologies,2016,210.63
+FIN,Finland,Environment-related technologies,2017,223.28
+FIN,Finland,Environment-related technologies,2018,214.4
+FIN,Finland,Environment-related technologies,2019,207.98
+FIN,Finland,Air pollution abatement,1995,11.0
+FIN,Finland,Air pollution abatement,2000,23.0
+FIN,Finland,Air pollution abatement,2005,26.5
+FIN,Finland,Air pollution abatement,2010,49.33
+FIN,Finland,Air pollution abatement,2011,74.58
+FIN,Finland,Air pollution abatement,2012,60.08
+FIN,Finland,Air pollution abatement,2013,37.33
+FIN,Finland,Air pollution abatement,2014,40.17
+FIN,Finland,Air pollution abatement,2015,27.67
+FIN,Finland,Air pollution abatement,2016,21.33
+FIN,Finland,Air pollution abatement,2017,36.67
+FIN,Finland,Air pollution abatement,2018,36.67
+FIN,Finland,Air pollution abatement,2019,17.0
+FRA,France,Environment-related technologies,1995,405.17
+FRA,France,Environment-related technologies,2000,632.68
+FRA,France,Environment-related technologies,2005,889.58
+FRA,France,Environment-related technologies,2010,1534.84
+FRA,France,Environment-related technologies,2011,1704.22
+FRA,France,Environment-related technologies,2012,1784.01
+FRA,France,Environment-related technologies,2013,1712.49
+FRA,France,Environment-related technologies,2014,1656.74
+FRA,France,Environment-related technologies,2015,1612.48
+FRA,France,Environment-related technologies,2016,1437.43
+FRA,France,Environment-related technologies,2017,1541.43
+FRA,France,Environment-related technologies,2018,1581.02
+FRA,France,Environment-related technologies,2019,1457.01
+FRA,France,Air pollution abatement,1995,85.33
+FRA,France,Air pollution abatement,2000,144.37
+FRA,France,Air pollution abatement,2005,277.73
+FRA,France,Air pollution abatement,2010,272.08
+FRA,France,Air pollution abatement,2011,299.42
+FRA,France,Air pollution abatement,2012,308.65
+FRA,France,Air pollution abatement,2013,309.1
+FRA,France,Air pollution abatement,2014,404.08
+FRA,France,Air pollution abatement,2015,298.0
+FRA,France,Air pollution abatement,2016,253.5
+FRA,France,Air pollution abatement,2017,257.57
+FRA,France,Air pollution abatement,2018,329.33
+FRA,France,Air pollution abatement,2019,192.37
+DEU,Germany,Environment-related technologies,1995,1645.42
+DEU,Germany,Environment-related technologies,2000,2950.07
+DEU,Germany,Environment-related technologies,2005,3172.6
+DEU,Germany,Environment-related technologies,2010,5088.69
+DEU,Germany,Environment-related technologies,2011,5170.98
+DEU,Germany,Environment-related technologies,2012,4877.52
+DEU,Germany,Environment-related technologies,2013,4452.14
+DEU,Germany,Environment-related technologies,2014,4403.81
+DEU,Germany,Environment-related technologies,2015,4236.28
+DEU,Germany,Environment-related technologies,2016,4327.14
+DEU,Germany,Environment-related technologies,2017,4637.79
+DEU,Germany,Environment-related technologies,2018,4657.61
+DEU,Germany,Environment-related technologies,2019,3985.17
+DEU,Germany,Air pollution abatement,1995,636.92
+DEU,Germany,Air pollution abatement,2000,1329.57
+DEU,Germany,Air pollution abatement,2005,1207.37
+DEU,Germany,Air pollution abatement,2010,1294.75
+DEU,Germany,Air pollution abatement,2011,1269.82
+DEU,Germany,Air pollution abatement,2012,1167.53
+DEU,Germany,Air pollution abatement,2013,1192.64
+DEU,Germany,Air pollution abatement,2014,1452.83
+DEU,Germany,Air pollution abatement,2015,1169.95
+DEU,Germany,Air pollution abatement,2016,1128.6
+DEU,Germany,Air pollution abatement,2017,1047.28
+DEU,Germany,Air pollution abatement,2018,1342.82
+DEU,Germany,Air pollution abatement,2019,682.75
+GRC,Greece,Environment-related technologies,1995,11.25
+GRC,Greece,Environment-related technologies,2000,8.17
+GRC,Greece,Environment-related technologies,2005,29.92
+GRC,Greece,Environment-related technologies,2010,29.48
+GRC,Greece,Environment-related technologies,2011,36.19
+GRC,Greece,Environment-related technologies,2012,22.95
+GRC,Greece,Environment-related technologies,2013,30.32
+GRC,Greece,Environment-related technologies,2014,20.37
+GRC,Greece,Environment-related technologies,2015,16.37
+GRC,Greece,Environment-related technologies,2016,23.86
+GRC,Greece,Environment-related technologies,2017,20.36
+GRC,Greece,Environment-related technologies,2018,23.24
+GRC,Greece,Environment-related technologies,2019,13.86
+GRC,Greece,Air pollution abatement,1995,3.25
+GRC,Greece,Air pollution abatement,2000,3.0
+GRC,Greece,Air pollution abatement,2005,3.92
+GRC,Greece,Air pollution abatement,2010,1.75
+GRC,Greece,Air pollution abatement,2011,0.75
+GRC,Greece,Air pollution abatement,2012,0.5
+GRC,Greece,Air pollution abatement,2013,3.0
+GRC,Greece,Air pollution abatement,2014,1.25
+GRC,Greece,Air pollution abatement,2015,0.33
+GRC,Greece,Air pollution abatement,2016,2.0
+GRC,Greece,Air pollution abatement,2018,7.0
+HUN,Hungary,Environment-related technologies,1995,13.4
+HUN,Hungary,Environment-related technologies,2000,13.33
+HUN,Hungary,Environment-related technologies,2005,23.17
+HUN,Hungary,Environment-related technologies,2010,36.94
+HUN,Hungary,Environment-related technologies,2011,43.53
+HUN,Hungary,Environment-related technologies,2012,34.12
+HUN,Hungary,Environment-related technologies,2013,27.87
+HUN,Hungary,Environment-related technologies,2014,25.05
+HUN,Hungary,Environment-related technologies,2015,40.08
+HUN,Hungary,Environment-related technologies,2016,24.67
+HUN,Hungary,Environment-related technologies,2017,28.42
+HUN,Hungary,Environment-related technologies,2018,28.83
+HUN,Hungary,Environment-related technologies,2019,21.33
+HUN,Hungary,Air pollution abatement,1995,3.2
+HUN,Hungary,Air pollution abatement,2000,2.0
+HUN,Hungary,Air pollution abatement,2005,4.0
+HUN,Hungary,Air pollution abatement,2010,2.0
+HUN,Hungary,Air pollution abatement,2011,2.33
+HUN,Hungary,Air pollution abatement,2012,1.33
+HUN,Hungary,Air pollution abatement,2013,2.83
+HUN,Hungary,Air pollution abatement,2014,2.92
+HUN,Hungary,Air pollution abatement,2015,7.08
+HUN,Hungary,Air pollution abatement,2016,1.33
+HUN,Hungary,Air pollution abatement,2018,5.0
+ISL,Iceland,Environment-related technologies,1995,0.67
+ISL,Iceland,Environment-related technologies,2000,2.5
+ISL,Iceland,Environment-related technologies,2005,3.5
+ISL,Iceland,Environment-related technologies,2010,4.25
+ISL,Iceland,Environment-related technologies,2011,2.56
+ISL,Iceland,Environment-related technologies,2012,3.62
+ISL,Iceland,Environment-related technologies,2013,0.58
+ISL,Iceland,Environment-related technologies,2014,3.33
+ISL,Iceland,Environment-related technologies,2015,4.0
+ISL,Iceland,Environment-related technologies,2016,6.17
+ISL,Iceland,Environment-related technologies,2017,4.5
+ISL,Iceland,Environment-related technologies,2019,4.53
+ISL,Iceland,Air pollution abatement,2012,1.83
+ISL,Iceland,Air pollution abatement,2014,3.0
+ISL,Iceland,Air pollution abatement,2015,1.0
+ISL,Iceland,Air pollution abatement,2017,3.0
+ISL,Iceland,Air pollution abatement,2019,1.2
+IRL,Ireland,Environment-related technologies,1995,13.0
+IRL,Ireland,Environment-related technologies,2000,22.0
+IRL,Ireland,Environment-related technologies,2005,26.33
+IRL,Ireland,Environment-related technologies,2010,48.33
+IRL,Ireland,Environment-related technologies,2011,50.7
+IRL,Ireland,Environment-related technologies,2012,49.89
+IRL,Ireland,Environment-related technologies,2013,47.03
+IRL,Ireland,Environment-related technologies,2014,46.75
+IRL,Ireland,Environment-related technologies,2015,53.08
+IRL,Ireland,Environment-related technologies,2016,41.69
+IRL,Ireland,Environment-related technologies,2017,38.43
+IRL,Ireland,Environment-related technologies,2018,48.39
+IRL,Ireland,Environment-related technologies,2019,47.36
+IRL,Ireland,Air pollution abatement,1995,3.0
+IRL,Ireland,Air pollution abatement,2000,2.5
+IRL,Ireland,Air pollution abatement,2005,0.33
+IRL,Ireland,Air pollution abatement,2010,8.17
+IRL,Ireland,Air pollution abatement,2011,4.67
+IRL,Ireland,Air pollution abatement,2012,1.7
+IRL,Ireland,Air pollution abatement,2013,0.33
+IRL,Ireland,Air pollution abatement,2014,5.0
+IRL,Ireland,Air pollution abatement,2015,5.0
+IRL,Ireland,Air pollution abatement,2016,3.0
+IRL,Ireland,Air pollution abatement,2017,3.53
+IRL,Ireland,Air pollution abatement,2018,1.83
+IRL,Ireland,Air pollution abatement,2019,2.33
+ITA,Italy,Environment-related technologies,1995,173.75
+ITA,Italy,Environment-related technologies,2000,285.33
+ITA,Italy,Environment-related technologies,2005,394.18
+ITA,Italy,Environment-related technologies,2010,623.09
+ITA,Italy,Environment-related technologies,2011,640.82
+ITA,Italy,Environment-related technologies,2012,678.55
+ITA,Italy,Environment-related technologies,2013,596.24
+ITA,Italy,Environment-related technologies,2014,586.12
+ITA,Italy,Environment-related technologies,2015,630.46
+ITA,Italy,Environment-related technologies,2016,621.56
+ITA,Italy,Environment-related technologies,2017,628.42
+ITA,Italy,Environment-related technologies,2018,583.66
+ITA,Italy,Environment-related technologies,2019,579.51
+ITA,Italy,Air pollution abatement,1995,38.5
+ITA,Italy,Air pollution abatement,2000,74.33
+ITA,Italy,Air pollution abatement,2005,104.73
+ITA,Italy,Air pollution abatement,2010,135.45
+ITA,Italy,Air pollution abatement,2011,114.0
+ITA,Italy,Air pollution abatement,2012,127.87
+ITA,Italy,Air pollution abatement,2013,126.58
+ITA,Italy,Air pollution abatement,2014,179.33
+ITA,Italy,Air pollution abatement,2015,170.42
+ITA,Italy,Air pollution abatement,2016,145.08
+ITA,Italy,Air pollution abatement,2017,148.87
+ITA,Italy,Air pollution abatement,2018,147.17
+ITA,Italy,Air pollution abatement,2019,97.67
+JPN,Japan,Environment-related technologies,1995,3324.67
+JPN,Japan,Environment-related technologies,2000,5885.73
+JPN,Japan,Environment-related technologies,2005,7322.5
+JPN,Japan,Environment-related technologies,2010,9411.97
+JPN,Japan,Environment-related technologies,2011,10529.41
+JPN,Japan,Environment-related technologies,2012,10244.43
+JPN,Japan,Environment-related technologies,2013,9615.37
+JPN,Japan,Environment-related technologies,2014,9437.58
+JPN,Japan,Environment-related technologies,2015,9321.65
+JPN,Japan,Environment-related technologies,2016,9278.63
+JPN,Japan,Environment-related technologies,2017,9662.75
+JPN,Japan,Environment-related technologies,2018,8971.32
+JPN,Japan,Environment-related technologies,2019,6962.48
+JPN,Japan,Air pollution abatement,1995,1131.0
+JPN,Japan,Air pollution abatement,2000,1581.5
+JPN,Japan,Air pollution abatement,2005,2129.17
+JPN,Japan,Air pollution abatement,2010,2240.2
+JPN,Japan,Air pollution abatement,2011,1662.23
+JPN,Japan,Air pollution abatement,2012,1736.42
+JPN,Japan,Air pollution abatement,2013,1952.45
+JPN,Japan,Air pollution abatement,2014,2649.97
+JPN,Japan,Air pollution abatement,2015,2020.87
+JPN,Japan,Air pollution abatement,2016,1664.2
+JPN,Japan,Air pollution abatement,2017,1724.17
+JPN,Japan,Air pollution abatement,2018,2111.95
+JPN,Japan,Air pollution abatement,2019,1203.25
+KOR,Korea,Environment-related technologies,1995,187.83
+KOR,Korea,Environment-related technologies,2000,519.5
+KOR,Korea,Environment-related technologies,2005,1890.43
+KOR,Korea,Environment-related technologies,2010,3834.95
+KOR,Korea,Environment-related technologies,2011,4104.45
+KOR,Korea,Environment-related technologies,2012,4421.35
+KOR,Korea,Environment-related technologies,2013,4864.3
+KOR,Korea,Environment-related technologies,2014,4926.58
+KOR,Korea,Environment-related technologies,2015,4684.47
+KOR,Korea,Environment-related technologies,2016,5123.33
+KOR,Korea,Environment-related technologies,2017,4692.59
+KOR,Korea,Environment-related technologies,2018,4633.78
+KOR,Korea,Environment-related technologies,2019,4480.33
+KOR,Korea,Air pollution abatement,1995,47.0
+KOR,Korea,Air pollution abatement,2000,85.17
+KOR,Korea,Air pollution abatement,2005,242.0
+KOR,Korea,Air pollution abatement,2010,379.33
+KOR,Korea,Air pollution abatement,2011,344.5
+KOR,Korea,Air pollution abatement,2012,345.33
+KOR,Korea,Air pollution abatement,2013,371.17
+KOR,Korea,Air pollution abatement,2014,633.67
+KOR,Korea,Air pollution abatement,2015,624.67
+KOR,Korea,Air pollution abatement,2016,647.92
+KOR,Korea,Air pollution abatement,2017,472.95
+KOR,Korea,Air pollution abatement,2018,562.0
+KOR,Korea,Air pollution abatement,2019,496.83
+LUX,Luxembourg,Environment-related technologies,1995,5.5
+LUX,Luxembourg,Environment-related technologies,2000,16.58
+LUX,Luxembourg,Environment-related technologies,2005,14.33
+LUX,Luxembourg,Environment-related technologies,2010,14.33
+LUX,Luxembourg,Environment-related technologies,2011,23.75
+LUX,Luxembourg,Environment-related technologies,2012,14.42
+LUX,Luxembourg,Environment-related technologies,2013,8.75
+LUX,Luxembourg,Environment-related technologies,2014,14.5
+LUX,Luxembourg,Environment-related technologies,2015,12.17
+LUX,Luxembourg,Environment-related technologies,2016,14.5
+LUX,Luxembourg,Environment-related technologies,2017,9.62
+LUX,Luxembourg,Environment-related technologies,2018,14.7
+LUX,Luxembourg,Environment-related technologies,2019,14.67
+LUX,Luxembourg,Air pollution abatement,2000,10.5
+LUX,Luxembourg,Air pollution abatement,2005,6.33
+LUX,Luxembourg,Air pollution abatement,2010,5.33
+LUX,Luxembourg,Air pollution abatement,2011,5.0
+LUX,Luxembourg,Air pollution abatement,2012,2.17
+LUX,Luxembourg,Air pollution abatement,2013,4.17
+LUX,Luxembourg,Air pollution abatement,2014,7.33
+LUX,Luxembourg,Air pollution abatement,2015,2.08
+LUX,Luxembourg,Air pollution abatement,2016,8.0
+LUX,Luxembourg,Air pollution abatement,2017,3.5
+LUX,Luxembourg,Air pollution abatement,2018,4.5
+LUX,Luxembourg,Air pollution abatement,2019,2.83
+MEX,Mexico,Environment-related technologies,1995,3.33
+MEX,Mexico,Environment-related technologies,2000,7.0
+MEX,Mexico,Environment-related technologies,2005,23.37
+MEX,Mexico,Environment-related technologies,2010,47.84
+MEX,Mexico,Environment-related technologies,2011,50.62
+MEX,Mexico,Environment-related technologies,2012,46.49
+MEX,Mexico,Environment-related technologies,2013,36.33
+MEX,Mexico,Environment-related technologies,2014,56.33
+MEX,Mexico,Environment-related technologies,2015,38.26
+MEX,Mexico,Environment-related technologies,2016,49.83
+MEX,Mexico,Environment-related technologies,2017,57.0
+MEX,Mexico,Environment-related technologies,2018,48.23
+MEX,Mexico,Environment-related technologies,2019,30.4
+MEX,Mexico,Air pollution abatement,1995,1.0
+MEX,Mexico,Air pollution abatement,2000,1.5
+MEX,Mexico,Air pollution abatement,2005,2.75
+MEX,Mexico,Air pollution abatement,2010,11.37
+MEX,Mexico,Air pollution abatement,2011,10.67
+MEX,Mexico,Air pollution abatement,2012,4.0
+MEX,Mexico,Air pollution abatement,2013,5.5
+MEX,Mexico,Air pollution abatement,2014,7.17
+MEX,Mexico,Air pollution abatement,2015,8.5
+MEX,Mexico,Air pollution abatement,2016,5.5
+MEX,Mexico,Air pollution abatement,2017,11.0
+MEX,Mexico,Air pollution abatement,2018,10.0
+MEX,Mexico,Air pollution abatement,2019,3.67
+NLD,Netherlands,Environment-related technologies,1995,132.9
+NLD,Netherlands,Environment-related technologies,2000,234.73
+NLD,Netherlands,Environment-related technologies,2005,287.07
+NLD,Netherlands,Environment-related technologies,2010,452.59
+NLD,Netherlands,Environment-related technologies,2011,538.2
+NLD,Netherlands,Environment-related technologies,2012,515.32
+NLD,Netherlands,Environment-related technologies,2013,492.0
+NLD,Netherlands,Environment-related technologies,2014,471.15
+NLD,Netherlands,Environment-related technologies,2015,505.3
+NLD,Netherlands,Environment-related technologies,2016,516.7
+NLD,Netherlands,Environment-related technologies,2017,472.5
+NLD,Netherlands,Environment-related technologies,2018,453.83
+NLD,Netherlands,Environment-related technologies,2019,425.52
+NLD,Netherlands,Air pollution abatement,1995,32.03
+NLD,Netherlands,Air pollution abatement,2000,28.23
+NLD,Netherlands,Air pollution abatement,2005,40.95
+NLD,Netherlands,Air pollution abatement,2010,49.15
+NLD,Netherlands,Air pollution abatement,2011,56.5
+NLD,Netherlands,Air pollution abatement,2012,50.33
+NLD,Netherlands,Air pollution abatement,2013,43.17
+NLD,Netherlands,Air pollution abatement,2014,64.92
+NLD,Netherlands,Air pollution abatement,2015,87.2
+NLD,Netherlands,Air pollution abatement,2016,71.7
+NLD,Netherlands,Air pollution abatement,2017,53.45
+NLD,Netherlands,Air pollution abatement,2018,58.83
+NLD,Netherlands,Air pollution abatement,2019,45.0
+NZL,New Zealand,Environment-related technologies,1995,26.5
+NZL,New Zealand,Environment-related technologies,2000,19.83
+NZL,New Zealand,Environment-related technologies,2005,34.53
+NZL,New Zealand,Environment-related technologies,2010,53.63
+NZL,New Zealand,Environment-related technologies,2011,62.03
+NZL,New Zealand,Environment-related technologies,2012,59.67
+NZL,New Zealand,Environment-related technologies,2013,53.67
+NZL,New Zealand,Environment-related technologies,2014,82.23
+NZL,New Zealand,Environment-related technologies,2015,49.17
+NZL,New Zealand,Environment-related technologies,2016,29.5
+NZL,New Zealand,Environment-related technologies,2017,45.5
+NZL,New Zealand,Environment-related technologies,2018,22.1
+NZL,New Zealand,Environment-related technologies,2019,39.23
+NZL,New Zealand,Air pollution abatement,2000,2.5
+NZL,New Zealand,Air pollution abatement,2005,2.2
+NZL,New Zealand,Air pollution abatement,2010,2.25
+NZL,New Zealand,Air pollution abatement,2011,3.0
+NZL,New Zealand,Air pollution abatement,2012,5.0
+NZL,New Zealand,Air pollution abatement,2013,4.0
+NZL,New Zealand,Air pollution abatement,2014,1.25
+NZL,New Zealand,Air pollution abatement,2015,3.5
+NZL,New Zealand,Air pollution abatement,2016,2.5
+NZL,New Zealand,Air pollution abatement,2017,3.0
+NZL,New Zealand,Air pollution abatement,2018,3.0
+NOR,Norway,Environment-related technologies,1995,29.5
+NOR,Norway,Environment-related technologies,2000,59.67
+NOR,Norway,Environment-related technologies,2005,86.9
+NOR,Norway,Environment-related technologies,2010,129.95
+NOR,Norway,Environment-related technologies,2011,133.95
+NOR,Norway,Environment-related technologies,2012,123.38
+NOR,Norway,Environment-related technologies,2013,100.83
+NOR,Norway,Environment-related technologies,2014,68.92
+NOR,Norway,Environment-related technologies,2015,89.63
+NOR,Norway,Environment-related technologies,2016,85.07
+NOR,Norway,Environment-related technologies,2017,108.42
+NOR,Norway,Environment-related technologies,2018,120.08
+NOR,Norway,Environment-related technologies,2019,113.37
+NOR,Norway,Air pollution abatement,1995,3.0
+NOR,Norway,Air pollution abatement,2000,8.33
+NOR,Norway,Air pollution abatement,2005,12.33
+NOR,Norway,Air pollution abatement,2010,21.0
+NOR,Norway,Air pollution abatement,2011,17.17
+NOR,Norway,Air pollution abatement,2012,16.08
+NOR,Norway,Air pollution abatement,2013,15.0
+NOR,Norway,Air pollution abatement,2014,7.33
+NOR,Norway,Air pollution abatement,2015,6.0
+NOR,Norway,Air pollution abatement,2016,10.0
+NOR,Norway,Air pollution abatement,2017,12.67
+NOR,Norway,Air pollution abatement,2018,12.0
+NOR,Norway,Air pollution abatement,2019,8.83
+POL,Poland,Environment-related technologies,1995,1.0
+POL,Poland,Environment-related technologies,2000,13.17
+POL,Poland,Environment-related technologies,2005,21.9
+POL,Poland,Environment-related technologies,2010,59.28
+POL,Poland,Environment-related technologies,2011,68.88
+POL,Poland,Environment-related technologies,2012,127.22
+POL,Poland,Environment-related technologies,2013,95.75
+POL,Poland,Environment-related technologies,2014,110.2
+POL,Poland,Environment-related technologies,2015,120.25
+POL,Poland,Environment-related technologies,2016,75.52
+POL,Poland,Environment-related technologies,2017,104.63
+POL,Poland,Environment-related technologies,2018,59.9
+POL,Poland,Environment-related technologies,2019,61.75
+POL,Poland,Air pollution abatement,1995,0.33
+POL,Poland,Air pollution abatement,2000,2.0
+POL,Poland,Air pollution abatement,2005,3.2
+POL,Poland,Air pollution abatement,2010,9.53
+POL,Poland,Air pollution abatement,2011,11.83
+POL,Poland,Air pollution abatement,2012,27.42
+POL,Poland,Air pollution abatement,2013,14.5
+POL,Poland,Air pollution abatement,2014,20.92
+POL,Poland,Air pollution abatement,2015,14.08
+POL,Poland,Air pollution abatement,2016,10.83
+POL,Poland,Air pollution abatement,2017,18.87
+POL,Poland,Air pollution abatement,2018,5.33
+POL,Poland,Air pollution abatement,2019,5.83
+PRT,Portugal,Environment-related technologies,1995,2.83
+PRT,Portugal,Environment-related technologies,2000,7.17
+PRT,Portugal,Environment-related technologies,2005,18.42
+PRT,Portugal,Environment-related technologies,2010,33.85
+PRT,Portugal,Environment-related technologies,2011,29.51
+PRT,Portugal,Environment-related technologies,2012,30.03
+PRT,Portugal,Environment-related technologies,2013,25.58
+PRT,Portugal,Environment-related technologies,2014,15.28
+PRT,Portugal,Environment-related technologies,2015,37.51
+PRT,Portugal,Environment-related technologies,2016,39.42
+PRT,Portugal,Environment-related technologies,2017,32.23
+PRT,Portugal,Environment-related technologies,2018,29.9
+PRT,Portugal,Environment-related technologies,2019,24.5
+PRT,Portugal,Air pollution abatement,2000,1.0
+PRT,Portugal,Air pollution abatement,2005,0.75
+PRT,Portugal,Air pollution abatement,2010,9.67
+PRT,Portugal,Air pollution abatement,2011,2.17
+PRT,Portugal,Air pollution abatement,2012,1.33
+PRT,Portugal,Air pollution abatement,2013,3.5
+PRT,Portugal,Air pollution abatement,2014,0.5
+PRT,Portugal,Air pollution abatement,2015,2.03
+PRT,Portugal,Air pollution abatement,2016,3.5
+PRT,Portugal,Air pollution abatement,2017,1.25
+PRT,Portugal,Air pollution abatement,2018,4.5
+PRT,Portugal,Air pollution abatement,2019,2.5
+SVK,Slovak Republic,Environment-related technologies,1995,6.0
+SVK,Slovak Republic,Environment-related technologies,2000,4.67
+SVK,Slovak Republic,Environment-related technologies,2005,5.0
+SVK,Slovak Republic,Environment-related technologies,2010,17.81
+SVK,Slovak Republic,Environment-related technologies,2011,24.23
+SVK,Slovak Republic,Environment-related technologies,2012,13.83
+SVK,Slovak Republic,Environment-related technologies,2013,13.33
+SVK,Slovak Republic,Environment-related technologies,2014,16.5
+SVK,Slovak Republic,Environment-related technologies,2015,22.83
+SVK,Slovak Republic,Environment-related technologies,2016,23.49
+SVK,Slovak Republic,Environment-related technologies,2017,19.81
+SVK,Slovak Republic,Environment-related technologies,2018,17.57
+SVK,Slovak Republic,Environment-related technologies,2019,13.2
+SVK,Slovak Republic,Air pollution abatement,1995,1.0
+SVK,Slovak Republic,Air pollution abatement,2005,0.33
+SVK,Slovak Republic,Air pollution abatement,2010,1.0
+SVK,Slovak Republic,Air pollution abatement,2011,2.33
+SVK,Slovak Republic,Air pollution abatement,2012,0.33
+SVK,Slovak Republic,Air pollution abatement,2014,1.5
+SVK,Slovak Republic,Air pollution abatement,2015,1.5
+SVK,Slovak Republic,Air pollution abatement,2016,2.08
+SVK,Slovak Republic,Air pollution abatement,2017,3.17
+SVK,Slovak Republic,Air pollution abatement,2018,2.83
+SVK,Slovak Republic,Air pollution abatement,2019,1.0
+ESP,Spain,Environment-related technologies,1995,43.67
+ESP,Spain,Environment-related technologies,2000,75.58
+ESP,Spain,Environment-related technologies,2005,184.33
+ESP,Spain,Environment-related technologies,2010,307.61
+ESP,Spain,Environment-related technologies,2011,360.28
+ESP,Spain,Environment-related technologies,2012,376.65
+ESP,Spain,Environment-related technologies,2013,335.23
+ESP,Spain,Environment-related technologies,2014,291.2
+ESP,Spain,Environment-related technologies,2015,298.34
+ESP,Spain,Environment-related technologies,2016,258.52
+ESP,Spain,Environment-related technologies,2017,294.5
+ESP,Spain,Environment-related technologies,2018,260.57
+ESP,Spain,Environment-related technologies,2019,227.57
+ESP,Spain,Air pollution abatement,1995,5.0
+ESP,Spain,Air pollution abatement,2000,8.0
+ESP,Spain,Air pollution abatement,2005,25.07
+ESP,Spain,Air pollution abatement,2010,25.43
+ESP,Spain,Air pollution abatement,2011,41.58
+ESP,Spain,Air pollution abatement,2012,31.08
+ESP,Spain,Air pollution abatement,2013,23.68
+ESP,Spain,Air pollution abatement,2014,35.5
+ESP,Spain,Air pollution abatement,2015,33.28
+ESP,Spain,Air pollution abatement,2016,30.5
+ESP,Spain,Air pollution abatement,2017,33.17
+ESP,Spain,Air pollution abatement,2018,17.33
+ESP,Spain,Air pollution abatement,2019,15.5
+SWE,Sweden,Environment-related technologies,1995,184.92
+SWE,Sweden,Environment-related technologies,2000,206.27
+SWE,Sweden,Environment-related technologies,2005,218.7
+SWE,Sweden,Environment-related technologies,2010,368.82
+SWE,Sweden,Environment-related technologies,2011,360.59
+SWE,Sweden,Environment-related technologies,2012,384.53
+SWE,Sweden,Environment-related technologies,2013,400.8
+SWE,Sweden,Environment-related technologies,2014,423.83
+SWE,Sweden,Environment-related technologies,2015,406.56
+SWE,Sweden,Environment-related technologies,2016,434.75
+SWE,Sweden,Environment-related technologies,2017,443.25
+SWE,Sweden,Environment-related technologies,2018,404.24
+SWE,Sweden,Environment-related technologies,2019,392.76
+SWE,Sweden,Air pollution abatement,1995,62.83
+SWE,Sweden,Air pollution abatement,2000,56.03
+SWE,Sweden,Air pollution abatement,2005,73.67
+SWE,Sweden,Air pollution abatement,2010,184.4
+SWE,Sweden,Air pollution abatement,2011,87.42
+SWE,Sweden,Air pollution abatement,2012,99.25
+SWE,Sweden,Air pollution abatement,2013,124.5
+SWE,Sweden,Air pollution abatement,2014,136.25
+SWE,Sweden,Air pollution abatement,2015,113.58
+SWE,Sweden,Air pollution abatement,2016,120.33
+SWE,Sweden,Air pollution abatement,2017,94.75
+SWE,Sweden,Air pollution abatement,2018,85.33
+SWE,Sweden,Air pollution abatement,2019,48.33
+CHE,Switzerland,Environment-related technologies,1995,182.67
+CHE,Switzerland,Environment-related technologies,2000,167.23
+CHE,Switzerland,Environment-related technologies,2005,215.37
+CHE,Switzerland,Environment-related technologies,2010,348.85
+CHE,Switzerland,Environment-related technologies,2011,360.32
+CHE,Switzerland,Environment-related technologies,2012,341.68
+CHE,Switzerland,Environment-related technologies,2013,308.68
+CHE,Switzerland,Environment-related technologies,2014,304.03
+CHE,Switzerland,Environment-related technologies,2015,268.43
+CHE,Switzerland,Environment-related technologies,2016,287.56
+CHE,Switzerland,Environment-related technologies,2017,283.53
+CHE,Switzerland,Environment-related technologies,2018,292.93
+CHE,Switzerland,Environment-related technologies,2019,297.07
+CHE,Switzerland,Air pollution abatement,1995,30.75
+CHE,Switzerland,Air pollution abatement,2000,20.23
+CHE,Switzerland,Air pollution abatement,2005,36.45
+CHE,Switzerland,Air pollution abatement,2010,49.45
+CHE,Switzerland,Air pollution abatement,2011,42.25
+CHE,Switzerland,Air pollution abatement,2012,50.87
+CHE,Switzerland,Air pollution abatement,2013,42.0
+CHE,Switzerland,Air pollution abatement,2014,53.5
+CHE,Switzerland,Air pollution abatement,2015,35.58
+CHE,Switzerland,Air pollution abatement,2016,38.75
+CHE,Switzerland,Air pollution abatement,2017,39.53
+CHE,Switzerland,Air pollution abatement,2018,43.17
+CHE,Switzerland,Air pollution abatement,2019,32.67
+TUR,Türkiye,Environment-related technologies,1995,3.83
+TUR,Türkiye,Environment-related technologies,2000,6.5
+TUR,Türkiye,Environment-related technologies,2005,28.59
+TUR,Türkiye,Environment-related technologies,2010,43.32
+TUR,Türkiye,Environment-related technologies,2011,57.29
+TUR,Türkiye,Environment-related technologies,2012,50.62
+TUR,Türkiye,Environment-related technologies,2013,65.5
+TUR,Türkiye,Environment-related technologies,2014,90.95
+TUR,Türkiye,Environment-related technologies,2015,103.0
+TUR,Türkiye,Environment-related technologies,2016,112.68
+TUR,Türkiye,Environment-related technologies,2017,148.9
+TUR,Türkiye,Environment-related technologies,2018,109.5
+TUR,Türkiye,Environment-related technologies,2019,83.5
+TUR,Türkiye,Air pollution abatement,1995,2.0
+TUR,Türkiye,Air pollution abatement,2000,1.5
+TUR,Türkiye,Air pollution abatement,2005,5.03
+TUR,Türkiye,Air pollution abatement,2010,7.5
+TUR,Türkiye,Air pollution abatement,2011,13.0
+TUR,Türkiye,Air pollution abatement,2012,4.33
+TUR,Türkiye,Air pollution abatement,2013,19.0
+TUR,Türkiye,Air pollution abatement,2014,23.2
+TUR,Türkiye,Air pollution abatement,2015,25.83
+TUR,Türkiye,Air pollution abatement,2016,14.33
+TUR,Türkiye,Air pollution abatement,2017,17.62
+TUR,Türkiye,Air pollution abatement,2018,13.5
+TUR,Türkiye,Air pollution abatement,2019,13.5
+GBR,United Kingdom,Environment-related technologies,1995,381.82
+GBR,United Kingdom,Environment-related technologies,2000,579.27
+GBR,United Kingdom,Environment-related technologies,2005,689.45
+GBR,United Kingdom,Environment-related technologies,2010,1120.17
+GBR,United Kingdom,Environment-related technologies,2011,1267.81
+GBR,United Kingdom,Environment-related technologies,2012,1212.48
+GBR,United Kingdom,Environment-related technologies,2013,1251.67
+GBR,United Kingdom,Environment-related technologies,2014,1191.1
+GBR,United Kingdom,Environment-related technologies,2015,1210.91
+GBR,United Kingdom,Environment-related technologies,2016,1115.43
+GBR,United Kingdom,Environment-related technologies,2017,1079.53
+GBR,United Kingdom,Environment-related technologies,2018,1133.12
+GBR,United Kingdom,Environment-related technologies,2019,1081.95
+GBR,United Kingdom,Air pollution abatement,1995,91.53
+GBR,United Kingdom,Air pollution abatement,2000,128.5
+GBR,United Kingdom,Air pollution abatement,2005,170.43
+GBR,United Kingdom,Air pollution abatement,2010,222.16
+GBR,United Kingdom,Air pollution abatement,2011,204.37
+GBR,United Kingdom,Air pollution abatement,2012,195.9
+GBR,United Kingdom,Air pollution abatement,2013,210.83
+GBR,United Kingdom,Air pollution abatement,2014,235.17
+GBR,United Kingdom,Air pollution abatement,2015,214.67
+GBR,United Kingdom,Air pollution abatement,2016,213.73
+GBR,United Kingdom,Air pollution abatement,2017,193.48
+GBR,United Kingdom,Air pollution abatement,2018,180.5
+GBR,United Kingdom,Air pollution abatement,2019,125.45
+USA,United States,Environment-related technologies,1995,2215.57
+USA,United States,Environment-related technologies,2000,3828.65
+USA,United States,Environment-related technologies,2005,5516.71
+USA,United States,Environment-related technologies,2010,8485.37
+USA,United States,Environment-related technologies,2011,8983.98
+USA,United States,Environment-related technologies,2012,9845.59
+USA,United States,Environment-related technologies,2013,10555.73
+USA,United States,Environment-related technologies,2014,9341.97
+USA,United States,Environment-related technologies,2015,9340.58
+USA,United States,Environment-related technologies,2016,9447.39
+USA,United States,Environment-related technologies,2017,9199.1
+USA,United States,Environment-related technologies,2018,8607.33
+USA,United States,Environment-related technologies,2019,7540.53
+USA,United States,Air pollution abatement,1995,512.03
+USA,United States,Air pollution abatement,2000,901.87
+USA,United States,Air pollution abatement,2005,1191.83
+USA,United States,Air pollution abatement,2010,2124.43
+USA,United States,Air pollution abatement,2011,1549.77
+USA,United States,Air pollution abatement,2012,1616.73
+USA,United States,Air pollution abatement,2013,1816.85
+USA,United States,Air pollution abatement,2014,1991.63
+USA,United States,Air pollution abatement,2015,1462.12
+USA,United States,Air pollution abatement,2016,1419.48
+USA,United States,Air pollution abatement,2017,1332.85
+USA,United States,Air pollution abatement,2018,1565.4
+USA,United States,Air pollution abatement,2019,918.87
+AFG,Afghanistan,Environment-related technologies,2013,1.0
+AFG,Afghanistan,Environment-related technologies,2014,0.17
+ALB,Albania,Environment-related technologies,2012,2.2
+ALB,Albania,Environment-related technologies,2013,1.77
+ALB,Albania,Environment-related technologies,2014,0.5
+ALB,Albania,Environment-related technologies,2015,2.53
+ALB,Albania,Environment-related technologies,2016,4.48
+ALB,Albania,Environment-related technologies,2017,4.12
+ALB,Albania,Environment-related technologies,2018,2.92
+ALB,Albania,Air pollution abatement,2016,0.5
+DZA,Algeria,Environment-related technologies,2000,0.67
+DZA,Algeria,Environment-related technologies,2005,0.83
+DZA,Algeria,Environment-related technologies,2010,1.42
+DZA,Algeria,Environment-related technologies,2011,2.42
+DZA,Algeria,Environment-related technologies,2012,1.75
+DZA,Algeria,Environment-related technologies,2013,1.83
+DZA,Algeria,Environment-related technologies,2014,1.33
+DZA,Algeria,Environment-related technologies,2015,4.0
+DZA,Algeria,Environment-related technologies,2016,1.5
+DZA,Algeria,Environment-related technologies,2017,0.33
+DZA,Algeria,Environment-related technologies,2018,2.5
+DZA,Algeria,Environment-related technologies,2019,3.33
+DZA,Algeria,Air pollution abatement,2015,1.0
+DZA,Algeria,Air pollution abatement,2019,1.0
+AND,Andorra,Environment-related technologies,2005,0.5
+AND,Andorra,Environment-related technologies,2011,0.83
+AND,Andorra,Environment-related technologies,2014,1.17
+AND,Andorra,Environment-related technologies,2015,0.2
+AND,Andorra,Environment-related technologies,2016,0.5
+AND,Andorra,Environment-related technologies,2017,1.0
+AND,Andorra,Environment-related technologies,2018,1.0
+AND,Andorra,Environment-related technologies,2019,0.33
+AGO,Angola,Environment-related technologies,2013,0.5
+ATG,Antigua and Barbuda,Environment-related technologies,2017,0.33
+ATG,Antigua and Barbuda,Environment-related technologies,2019,0.5
+ARG,Argentina,Environment-related technologies,1995,1.33
+ARG,Argentina,Environment-related technologies,2000,5.0
+ARG,Argentina,Environment-related technologies,2005,10.7
+ARG,Argentina,Environment-related technologies,2010,8.83
+ARG,Argentina,Environment-related technologies,2011,9.25
+ARG,Argentina,Environment-related technologies,2012,17.75
+ARG,Argentina,Environment-related technologies,2013,6.81
+ARG,Argentina,Environment-related technologies,2014,7.26
+ARG,Argentina,Environment-related technologies,2015,8.5
+ARG,Argentina,Environment-related technologies,2016,14.08
+ARG,Argentina,Environment-related technologies,2017,10.17
+ARG,Argentina,Environment-related technologies,2018,10.5
+ARG,Argentina,Environment-related technologies,2019,4.33
+ARG,Argentina,Air pollution abatement,2005,3.5
+ARG,Argentina,Air pollution abatement,2010,2.0
+ARG,Argentina,Air pollution abatement,2011,1.83
+ARG,Argentina,Air pollution abatement,2012,1.0
+ARG,Argentina,Air pollution abatement,2014,0.5
+ARG,Argentina,Air pollution abatement,2016,2.33
+ARG,Argentina,Air pollution abatement,2017,1.33
+ARG,Argentina,Air pollution abatement,2018,2.0
+ARM,Armenia,Environment-related technologies,2005,0.5
+ARM,Armenia,Environment-related technologies,2010,1.0
+ARM,Armenia,Environment-related technologies,2011,2.0
+ARM,Armenia,Environment-related technologies,2012,3.83
+ARM,Armenia,Environment-related technologies,2013,8.0
+ARM,Armenia,Environment-related technologies,2014,2.5
+ARM,Armenia,Environment-related technologies,2015,3.92
+ARM,Armenia,Environment-related technologies,2016,2.17
+ARM,Armenia,Environment-related technologies,2017,1.0
+ARM,Armenia,Environment-related technologies,2018,2.0
+ARM,Armenia,Environment-related technologies,2019,1.0
+ARM,Armenia,Air pollution abatement,2014,1.0
+ARM,Armenia,Air pollution abatement,2016,0.33
+AZE,Azerbaijan,Environment-related technologies,1995,0.5
+AZE,Azerbaijan,Environment-related technologies,2000,0.33
+AZE,Azerbaijan,Environment-related technologies,2005,1.58
+AZE,Azerbaijan,Environment-related technologies,2010,1.83
+AZE,Azerbaijan,Environment-related technologies,2011,3.17
+AZE,Azerbaijan,Environment-related technologies,2012,0.5
+AZE,Azerbaijan,Environment-related technologies,2013,1.0
+AZE,Azerbaijan,Environment-related technologies,2015,0.7
+AZE,Azerbaijan,Environment-related technologies,2016,1.5
+AZE,Azerbaijan,Environment-related technologies,2017,2.5
+AZE,Azerbaijan,Environment-related technologies,2018,0.5
+AZE,Azerbaijan,Environment-related technologies,2019,2.5
+AZE,Azerbaijan,Air pollution abatement,1995,0.5
+AZE,Azerbaijan,Air pollution abatement,2000,0.33
+AZE,Azerbaijan,Air pollution abatement,2005,0.33
+AZE,Azerbaijan,Air pollution abatement,2010,1.0
+AZE,Azerbaijan,Air pollution abatement,2011,0.33
+BHS,Bahamas,Environment-related technologies,1995,0.5
+BHS,Bahamas,Environment-related technologies,2000,2.0
+BHS,Bahamas,Environment-related technologies,2005,1.83
+BHS,Bahamas,Environment-related technologies,2010,1.25
+BHS,Bahamas,Environment-related technologies,2013,0.5
+BHS,Bahamas,Environment-related technologies,2015,0.33
+BHS,Bahamas,Environment-related technologies,2019,1.0
+BHS,Bahamas,Air pollution abatement,2010,0.5
+BHS,Bahamas,Air pollution abatement,2019,0.5
+BHR,Bahrain,Environment-related technologies,2005,1.0
+BHR,Bahrain,Environment-related technologies,2011,0.2
+BHR,Bahrain,Environment-related technologies,2012,1.27
+BHR,Bahrain,Environment-related technologies,2013,2.28
+BHR,Bahrain,Environment-related technologies,2014,2.5
+BHR,Bahrain,Environment-related technologies,2016,1.5
+BHR,Bahrain,Air pollution abatement,2005,1.0
+BHR,Bahrain,Air pollution abatement,2012,0.57
+BHR,Bahrain,Air pollution abatement,2013,0.25
+BHR,Bahrain,Air pollution abatement,2014,0.5
+BHR,Bahrain,Air pollution abatement,2016,1.5
+BGD,Bangladesh,Environment-related technologies,2000,0.5
+BGD,Bangladesh,Environment-related technologies,2005,1.08
+BGD,Bangladesh,Environment-related technologies,2010,5.58
+BGD,Bangladesh,Environment-related technologies,2011,4.0
+BGD,Bangladesh,Environment-related technologies,2012,3.28
+BGD,Bangladesh,Environment-related technologies,2013,3.25
+BGD,Bangladesh,Environment-related technologies,2014,1.0
+BGD,Bangladesh,Environment-related technologies,2015,0.5
+BGD,Bangladesh,Environment-related technologies,2016,0.67
+BGD,Bangladesh,Environment-related technologies,2017,0.37
+BGD,Bangladesh,Environment-related technologies,2018,1.83
+BGD,Bangladesh,Environment-related technologies,2019,1.33
+BGD,Bangladesh,Air pollution abatement,2010,1.0
+BGD,Bangladesh,Air pollution abatement,2012,1.0
+BGD,Bangladesh,Air pollution abatement,2013,0.5
+BGD,Bangladesh,Air pollution abatement,2017,0.2
+BRB,Barbados,Environment-related technologies,1995,0.5
+BRB,Barbados,Environment-related technologies,2005,0.5
+BRB,Barbados,Environment-related technologies,2010,1.0
+BRB,Barbados,Environment-related technologies,2011,1.3
+BRB,Barbados,Environment-related technologies,2012,0.25
+BRB,Barbados,Environment-related technologies,2019,0.5
+BLR,Belarus,Environment-related technologies,1995,2.0
+BLR,Belarus,Environment-related technologies,2000,4.0
+BLR,Belarus,Environment-related technologies,2005,2.83
+BLR,Belarus,Environment-related technologies,2010,5.42
+BLR,Belarus,Environment-related technologies,2011,4.33
+BLR,Belarus,Environment-related technologies,2012,3.0
+BLR,Belarus,Environment-related technologies,2013,5.17
+BLR,Belarus,Environment-related technologies,2014,3.5
+BLR,Belarus,Environment-related technologies,2015,2.83
+BLR,Belarus,Environment-related technologies,2016,1.75
+BLR,Belarus,Environment-related technologies,2017,5.83
+BLR,Belarus,Environment-related technologies,2018,12.5
+BLR,Belarus,Environment-related technologies,2019,2.92
+BLR,Belarus,Air pollution abatement,2000,1.0
+BLR,Belarus,Air pollution abatement,2005,0.33
+BLR,Belarus,Air pollution abatement,2011,1.0
+BLR,Belarus,Air pollution abatement,2014,0.5
+BLR,Belarus,Air pollution abatement,2018,1.0
+BLZ,Belize,Environment-related technologies,2013,0.33
+BLZ,Belize,Environment-related technologies,2017,1.0
+BTN,Bhutan,Environment-related technologies,2018,0.2
+BOL,Bolivia,Environment-related technologies,2012,0.5
+BOL,Bolivia,Environment-related technologies,2013,0.33
+BOL,Bolivia,Air pollution abatement,2013,0.33
+BIH,Bosnia and Herzegovina,Environment-related technologies,2005,1.0
+BIH,Bosnia and Herzegovina,Environment-related technologies,2010,1.83
+BIH,Bosnia and Herzegovina,Environment-related technologies,2011,5.67
+BIH,Bosnia and Herzegovina,Environment-related technologies,2012,2.75
+BIH,Bosnia and Herzegovina,Environment-related technologies,2013,2.0
+BIH,Bosnia and Herzegovina,Environment-related technologies,2014,0.33
+BIH,Bosnia and Herzegovina,Environment-related technologies,2015,0.25
+BIH,Bosnia and Herzegovina,Environment-related technologies,2016,0.5
+BIH,Bosnia and Herzegovina,Environment-related technologies,2017,2.0
+BIH,Bosnia and Herzegovina,Environment-related technologies,2018,2.0
+BIH,Bosnia and Herzegovina,Environment-related technologies,2019,3.2
+BIH,Bosnia and Herzegovina,Air pollution abatement,2010,0.5
+BIH,Bosnia and Herzegovina,Air pollution abatement,2011,0.33
+BIH,Bosnia and Herzegovina,Air pollution abatement,2014,0.33
+BIH,Bosnia and Herzegovina,Air pollution abatement,2015,0.25
+BIH,Bosnia and Herzegovina,Air pollution abatement,2019,1.0
+BWA,Botswana,Environment-related technologies,2012,0.67
+BRA,Brazil,Environment-related technologies,1995,17.83
+BRA,Brazil,Environment-related technologies,2000,13.67
+BRA,Brazil,Environment-related technologies,2005,44.03
+BRA,Brazil,Environment-related technologies,2010,87.42
+BRA,Brazil,Environment-related technologies,2011,96.74
+BRA,Brazil,Environment-related technologies,2012,87.58
+BRA,Brazil,Environment-related technologies,2013,93.88
+BRA,Brazil,Environment-related technologies,2014,89.8
+BRA,Brazil,Environment-related technologies,2015,109.93
+BRA,Brazil,Environment-related technologies,2016,104.33
+BRA,Brazil,Environment-related technologies,2017,99.75
+BRA,Brazil,Environment-related technologies,2018,95.73
+BRA,Brazil,Environment-related technologies,2019,86.9
+BRA,Brazil,Air pollution abatement,1995,2.0
+BRA,Brazil,Air pollution abatement,2005,8.5
+BRA,Brazil,Air pollution abatement,2010,16.0
+BRA,Brazil,Air pollution abatement,2011,13.5
+BRA,Brazil,Air pollution abatement,2012,13.17
+BRA,Brazil,Air pollution abatement,2013,16.48
+BRA,Brazil,Air pollution abatement,2014,18.75
+BRA,Brazil,Air pollution abatement,2015,16.5
+BRA,Brazil,Air pollution abatement,2016,13.5
+BRA,Brazil,Air pollution abatement,2017,19.75
+BRA,Brazil,Air pollution abatement,2018,17.33
+BRA,Brazil,Air pollution abatement,2019,13.5
+VGB,British Virgin Islands,Environment-related technologies,1995,1.67
+VGB,British Virgin Islands,Environment-related technologies,2000,2.0
+VGB,British Virgin Islands,Environment-related technologies,2005,1.33
+VGB,British Virgin Islands,Environment-related technologies,2015,0.5
+VGB,British Virgin Islands,Environment-related technologies,2017,1.11
+VGB,British Virgin Islands,Environment-related technologies,2018,0.5
+VGB,British Virgin Islands,Environment-related technologies,2019,1.33
+VGB,British Virgin Islands,Air pollution abatement,1995,0.5
+BRN,Brunei Darussalam,Environment-related technologies,2012,1.0
+BRN,Brunei Darussalam,Environment-related technologies,2013,1.5
+BRN,Brunei Darussalam,Environment-related technologies,2014,2.0
+BRN,Brunei Darussalam,Environment-related technologies,2015,1.0
+BRN,Brunei Darussalam,Environment-related technologies,2016,1.0
+BGR,Bulgaria,Environment-related technologies,1995,1.0
+BGR,Bulgaria,Environment-related technologies,2000,1.83
+BGR,Bulgaria,Environment-related technologies,2005,6.42
+BGR,Bulgaria,Environment-related technologies,2010,9.95
+BGR,Bulgaria,Environment-related technologies,2011,12.75
+BGR,Bulgaria,Environment-related technologies,2012,18.08
+BGR,Bulgaria,Environment-related technologies,2013,12.87
+BGR,Bulgaria,Environment-related technologies,2014,15.87
+BGR,Bulgaria,Environment-related technologies,2015,17.33
+BGR,Bulgaria,Environment-related technologies,2016,13.17
+BGR,Bulgaria,Environment-related technologies,2017,10.33
+BGR,Bulgaria,Environment-related technologies,2018,10.33
+BGR,Bulgaria,Environment-related technologies,2019,9.0
+BGR,Bulgaria,Air pollution abatement,2010,3.2
+BGR,Bulgaria,Air pollution abatement,2012,3.5
+BGR,Bulgaria,Air pollution abatement,2013,2.5
+BGR,Bulgaria,Air pollution abatement,2014,9.0
+BGR,Bulgaria,Air pollution abatement,2015,3.0
+BGR,Bulgaria,Air pollution abatement,2016,4.0
+BGR,Bulgaria,Air pollution abatement,2017,2.08
+BGR,Bulgaria,Air pollution abatement,2018,1.0
+BGR,Bulgaria,Air pollution abatement,2019,3.0
+BFA,Burkina Faso,Environment-related technologies,2010,0.5
+BFA,Burkina Faso,Environment-related technologies,2014,0.5
+BDI,Burundi,Environment-related technologies,2010,0.5
+KHM,Cambodia,Environment-related technologies,2010,1.0
+KHM,Cambodia,Environment-related technologies,2014,0.5
+CMR,Cameroon,Environment-related technologies,2010,1.0
+CMR,Cameroon,Environment-related technologies,2011,0.33
+CMR,Cameroon,Environment-related technologies,2012,0.5
+CMR,Cameroon,Environment-related technologies,2016,3.67
+CMR,Cameroon,Environment-related technologies,2017,1.5
+CMR,Cameroon,Environment-related technologies,2019,0.5
+CPV,Cabo Verde,Environment-related technologies,2015,0.67
+CPV,Cabo Verde,Environment-related technologies,2016,0.33
+CAF,Central African Republic,Environment-related technologies,2005,0.33
+CAF,Central African Republic,Environment-related technologies,2011,0.5
+CAF,Central African Republic,Environment-related technologies,2015,1.33
+CAF,Central African Republic,Environment-related technologies,2016,0.67
+CAF,Central African Republic,Air pollution abatement,2005,0.33
+CAF,Central African Republic,Air pollution abatement,2016,0.33
+CHL,Chile,Environment-related technologies,1995,1.58
+CHL,Chile,Environment-related technologies,2000,3.5
+CHL,Chile,Environment-related technologies,2005,10.17
+CHL,Chile,Environment-related technologies,2010,20.68
+CHL,Chile,Environment-related technologies,2011,43.5
+CHL,Chile,Environment-related technologies,2012,25.33
+CHL,Chile,Environment-related technologies,2013,29.0
+CHL,Chile,Environment-related technologies,2014,28.67
+CHL,Chile,Environment-related technologies,2015,35.5
+CHL,Chile,Environment-related technologies,2016,26.17
+CHL,Chile,Environment-related technologies,2017,22.37
+CHL,Chile,Environment-related technologies,2018,31.5
+CHL,Chile,Environment-related technologies,2019,32.5
+CHL,Chile,Air pollution abatement,2010,2.17
+CHL,Chile,Air pollution abatement,2011,4.0
+CHL,Chile,Air pollution abatement,2012,5.0
+CHL,Chile,Air pollution abatement,2013,2.0
+CHL,Chile,Air pollution abatement,2015,3.0
+CHL,Chile,Air pollution abatement,2016,0.33
+CHL,Chile,Air pollution abatement,2017,1.33
+CHL,Chile,Air pollution abatement,2018,5.0
+CHL,Chile,Air pollution abatement,2019,2.5
+CHN,China (People's Republic of),Environment-related technologies,1995,32.67
+CHN,China (People's Republic of),Environment-related technologies,2000,93.58
+CHN,China (People's Republic of),Environment-related technologies,2005,559.85
+CHN,China (People's Republic of),Environment-related technologies,2010,1853.08
+CHN,China (People's Republic of),Environment-related technologies,2011,2019.56
+CHN,China (People's Republic of),Environment-related technologies,2012,2307.91
+CHN,China (People's Republic of),Environment-related technologies,2013,2412.14
+CHN,China (People's Republic of),Environment-related technologies,2014,2495.23
+CHN,China (People's Republic of),Environment-related technologies,2015,3032.88
+CHN,China (People's Republic of),Environment-related technologies,2016,4200.27
+CHN,China (People's Republic of),Environment-related technologies,2017,5116.21
+CHN,China (People's Republic of),Environment-related technologies,2018,5426.79
+CHN,China (People's Republic of),Environment-related technologies,2019,5910.14
+CHN,China (People's Republic of),Air pollution abatement,1995,7.33
+CHN,China (People's Republic of),Air pollution abatement,2000,16.17
+CHN,China (People's Republic of),Air pollution abatement,2005,71.53
+CHN,China (People's Republic of),Air pollution abatement,2010,164.16
+CHN,China (People's Republic of),Air pollution abatement,2011,182.48
+CHN,China (People's Republic of),Air pollution abatement,2012,169.17
+CHN,China (People's Republic of),Air pollution abatement,2013,195.67
+CHN,China (People's Republic of),Air pollution abatement,2014,297.22
+CHN,China (People's Republic of),Air pollution abatement,2015,266.4
+CHN,China (People's Republic of),Air pollution abatement,2016,335.35
+CHN,China (People's Republic of),Air pollution abatement,2017,428.92
+CHN,China (People's Republic of),Air pollution abatement,2018,504.82
+CHN,China (People's Republic of),Air pollution abatement,2019,477.67
+COL,Colombia,Environment-related technologies,1995,1.5
+COL,Colombia,Environment-related technologies,2000,3.0
+COL,Colombia,Environment-related technologies,2005,2.25
+COL,Colombia,Environment-related technologies,2010,8.95
+COL,Colombia,Environment-related technologies,2011,13.92
+COL,Colombia,Environment-related technologies,2012,8.58
+COL,Colombia,Environment-related technologies,2013,12.64
+COL,Colombia,Environment-related technologies,2014,11.05
+COL,Colombia,Environment-related technologies,2015,10.03
+COL,Colombia,Environment-related technologies,2016,22.58
+COL,Colombia,Environment-related technologies,2017,20.5
+COL,Colombia,Environment-related technologies,2018,17.92
+COL,Colombia,Environment-related technologies,2019,15.03
+COL,Colombia,Air pollution abatement,1995,0.5
+COL,Colombia,Air pollution abatement,2005,1.0
+COL,Colombia,Air pollution abatement,2010,1.58
+COL,Colombia,Air pollution abatement,2011,0.5
+COL,Colombia,Air pollution abatement,2012,1.5
+COL,Colombia,Air pollution abatement,2013,0.64
+COL,Colombia,Air pollution abatement,2014,2.47
+COL,Colombia,Air pollution abatement,2015,3.2
+COL,Colombia,Air pollution abatement,2016,2.5
+COL,Colombia,Air pollution abatement,2017,5.0
+COL,Colombia,Air pollution abatement,2018,0.5
+COL,Colombia,Air pollution abatement,2019,1.0
+COG,Congo,Environment-related technologies,2010,0.5
+COG,Congo,Environment-related technologies,2016,0.5
+CRI,Costa Rica,Environment-related technologies,2005,4.5
+CRI,Costa Rica,Environment-related technologies,2010,0.5
+CRI,Costa Rica,Environment-related technologies,2012,0.7
+CRI,Costa Rica,Environment-related technologies,2014,1.33
+CRI,Costa Rica,Environment-related technologies,2016,2.0
+CRI,Costa Rica,Environment-related technologies,2017,4.83
+CRI,Costa Rica,Environment-related technologies,2018,2.0
+CRI,Costa Rica,Environment-related technologies,2019,2.83
+CRI,Costa Rica,Air pollution abatement,2005,1.5
+CRI,Costa Rica,Air pollution abatement,2016,0.5
+CRI,Costa Rica,Air pollution abatement,2017,4.0
+CRI,Costa Rica,Air pollution abatement,2018,0.5
+CRI,Costa Rica,Air pollution abatement,2019,1.0
+CIV,Côte d'Ivoire,Environment-related technologies,2010,0.2
+CIV,Côte d'Ivoire,Environment-related technologies,2016,0.33
+CIV,Côte d'Ivoire,Environment-related technologies,2017,0.33
+CIV,Côte d'Ivoire,Environment-related technologies,2019,0.5
+HRV,Croatia,Environment-related technologies,1995,0.5
+HRV,Croatia,Environment-related technologies,2000,6.33
+HRV,Croatia,Environment-related technologies,2005,5.0
+HRV,Croatia,Environment-related technologies,2010,8.95
+HRV,Croatia,Environment-related technologies,2011,12.27
+HRV,Croatia,Environment-related technologies,2012,9.86
+HRV,Croatia,Environment-related technologies,2013,8.0
+HRV,Croatia,Environment-related technologies,2014,3.33
+HRV,Croatia,Environment-related technologies,2015,6.17
+HRV,Croatia,Environment-related technologies,2016,3.0
+HRV,Croatia,Environment-related technologies,2017,6.0
+HRV,Croatia,Environment-related technologies,2018,3.64
+HRV,Croatia,Environment-related technologies,2019,2.14
+HRV,Croatia,Air pollution abatement,1995,0.5
+HRV,Croatia,Air pollution abatement,2005,0.5
+HRV,Croatia,Air pollution abatement,2011,1.5
+HRV,Croatia,Air pollution abatement,2012,1.0
+HRV,Croatia,Air pollution abatement,2013,1.5
+HRV,Croatia,Air pollution abatement,2014,1.0
+HRV,Croatia,Air pollution abatement,2015,1.5
+HRV,Croatia,Air pollution abatement,2016,0.5
+HRV,Croatia,Air pollution abatement,2018,1.0
+CUB,Cuba,Environment-related technologies,2005,0.33
+CUB,Cuba,Environment-related technologies,2010,0.11
+CUB,Cuba,Environment-related technologies,2011,0.11
+CUB,Cuba,Environment-related technologies,2012,1.33
+CUB,Cuba,Environment-related technologies,2013,1.0
+CUB,Cuba,Environment-related technologies,2017,0.33
+CUB,Cuba,Environment-related technologies,2019,1.0
+CYP,Cyprus,Environment-related technologies,1995,2.0
+CYP,Cyprus,Environment-related technologies,2000,2.33
+CYP,Cyprus,Environment-related technologies,2005,3.25
+CYP,Cyprus,Environment-related technologies,2010,3.5
+CYP,Cyprus,Environment-related technologies,2011,1.0
+CYP,Cyprus,Environment-related technologies,2012,1.7
+CYP,Cyprus,Environment-related technologies,2013,0.2
+CYP,Cyprus,Environment-related technologies,2014,5.5
+CYP,Cyprus,Environment-related technologies,2015,0.5
+CYP,Cyprus,Environment-related technologies,2016,1.33
+CYP,Cyprus,Environment-related technologies,2017,1.25
+CYP,Cyprus,Environment-related technologies,2018,0.25
+CYP,Cyprus,Environment-related technologies,2019,3.83
+CYP,Cyprus,Air pollution abatement,1995,0.5
+CYP,Cyprus,Air pollution abatement,2000,0.5
+CYP,Cyprus,Air pollution abatement,2005,0.25
+PRK,Democratic People's Republic of Korea,Environment-related technologies,1995,0.5
+PRK,Democratic People's Republic of Korea,Environment-related technologies,2005,4.0
+PRK,Democratic People's Republic of Korea,Environment-related technologies,2010,4.92
+PRK,Democratic People's Republic of Korea,Environment-related technologies,2011,1.5
+PRK,Democratic People's Republic of Korea,Environment-related technologies,2012,2.64
+PRK,Democratic People's Republic of Korea,Environment-related technologies,2013,1.5
+PRK,Democratic People's Republic of Korea,Environment-related technologies,2014,2.75
+PRK,Democratic People's Republic of Korea,Environment-related technologies,2015,3.0
+PRK,Democratic People's Republic of Korea,Environment-related technologies,2016,2.6
+PRK,Democratic People's Republic of Korea,Environment-related technologies,2017,1.33
+PRK,Democratic People's Republic of Korea,Environment-related technologies,2018,2.0
+PRK,Democratic People's Republic of Korea,Environment-related technologies,2019,0.83
+PRK,Democratic People's Republic of Korea,Air pollution abatement,2005,1.0
+PRK,Democratic People's Republic of Korea,Air pollution abatement,2010,0.33
+PRK,Democratic People's Republic of Korea,Air pollution abatement,2013,0.5
+PRK,Democratic People's Republic of Korea,Air pollution abatement,2014,1.0
+PRK,Democratic People's Republic of Korea,Air pollution abatement,2016,0.5
+PRK,Democratic People's Republic of Korea,Air pollution abatement,2017,0.5
+PRK,Democratic People's Republic of Korea,Air pollution abatement,2018,1.0
+PRK,Democratic People's Republic of Korea,Air pollution abatement,2019,0.5
+DJI,Djibouti,Environment-related technologies,2011,0.5
+DJI,Djibouti,Environment-related technologies,2012,0.5
+DJI,Djibouti,Environment-related technologies,2018,0.5
+DOM,Dominican Republic,Environment-related technologies,2000,0.5
+DOM,Dominican Republic,Environment-related technologies,2011,5.0
+DOM,Dominican Republic,Environment-related technologies,2013,2.0
+DOM,Dominican Republic,Environment-related technologies,2014,1.5
+DOM,Dominican Republic,Environment-related technologies,2015,0.5
+DOM,Dominican Republic,Environment-related technologies,2016,1.0
+DOM,Dominican Republic,Environment-related technologies,2018,1.5
+DOM,Dominican Republic,Environment-related technologies,2019,1.5
+DOM,Dominican Republic,Air pollution abatement,2000,0.5
+DOM,Dominican Republic,Air pollution abatement,2014,3.0
+DOM,Dominican Republic,Air pollution abatement,2015,0.5
+ECU,Ecuador,Environment-related technologies,2000,0.5
+ECU,Ecuador,Environment-related technologies,2005,1.25
+ECU,Ecuador,Environment-related technologies,2010,2.5
+ECU,Ecuador,Environment-related technologies,2011,1.5
+ECU,Ecuador,Environment-related technologies,2012,0.5
+ECU,Ecuador,Environment-related technologies,2013,1.0
+ECU,Ecuador,Environment-related technologies,2015,2.0
+ECU,Ecuador,Environment-related technologies,2016,1.67
+ECU,Ecuador,Environment-related technologies,2018,2.33
+ECU,Ecuador,Air pollution abatement,2010,0.67
+ECU,Ecuador,Air pollution abatement,2011,0.5
+ECU,Ecuador,Air pollution abatement,2018,1.33
+EGY,Egypt,Environment-related technologies,2000,1.5
+EGY,Egypt,Environment-related technologies,2005,8.13
+EGY,Egypt,Environment-related technologies,2010,10.08
+EGY,Egypt,Environment-related technologies,2011,10.03
+EGY,Egypt,Environment-related technologies,2012,9.77
+EGY,Egypt,Environment-related technologies,2013,8.73
+EGY,Egypt,Environment-related technologies,2014,16.33
+EGY,Egypt,Environment-related technologies,2015,8.37
+EGY,Egypt,Environment-related technologies,2016,6.58
+EGY,Egypt,Environment-related technologies,2017,3.67
+EGY,Egypt,Environment-related technologies,2018,6.17
+EGY,Egypt,Environment-related technologies,2019,3.37
+EGY,Egypt,Air pollution abatement,2000,0.5
+EGY,Egypt,Air pollution abatement,2005,1.0
+EGY,Egypt,Air pollution abatement,2010,1.0
+EGY,Egypt,Air pollution abatement,2011,1.0
+EGY,Egypt,Air pollution abatement,2012,1.2
+EGY,Egypt,Air pollution abatement,2014,2.0
+EGY,Egypt,Air pollution abatement,2015,0.5
+EGY,Egypt,Air pollution abatement,2018,1.33
+SLV,El Salvador,Environment-related technologies,1995,0.67
+SLV,El Salvador,Environment-related technologies,2000,1.0
+SLV,El Salvador,Environment-related technologies,2013,0.25
+SLV,El Salvador,Environment-related technologies,2015,1.0
+SLV,El Salvador,Environment-related technologies,2017,1.0
+SLV,El Salvador,Environment-related technologies,2018,1.0
+SLV,El Salvador,Air pollution abatement,2000,0.5
+ERI,Eritrea,Environment-related technologies,2016,0.5
+ERI,Eritrea,Environment-related technologies,2019,0.5
+EST,Estonia,Environment-related technologies,2000,1.67
+EST,Estonia,Environment-related technologies,2005,1.0
+EST,Estonia,Environment-related technologies,2010,15.92
+EST,Estonia,Environment-related technologies,2011,15.78
+EST,Estonia,Environment-related technologies,2012,9.92
+EST,Estonia,Environment-related technologies,2013,3.67
+EST,Estonia,Environment-related technologies,2014,12.0
+EST,Estonia,Environment-related technologies,2015,9.17
+EST,Estonia,Environment-related technologies,2016,12.33
+EST,Estonia,Environment-related technologies,2017,9.5
+EST,Estonia,Environment-related technologies,2018,6.33
+EST,Estonia,Environment-related technologies,2019,2.33
+EST,Estonia,Air pollution abatement,2011,8.0
+EST,Estonia,Air pollution abatement,2012,5.0
+EST,Estonia,Air pollution abatement,2013,1.0
+EST,Estonia,Air pollution abatement,2014,1.5
+EST,Estonia,Air pollution abatement,2016,0.5
+ETH,Ethiopia,Environment-related technologies,2005,0.33
+ETH,Ethiopia,Environment-related technologies,2010,2.08
+ETH,Ethiopia,Environment-related technologies,2011,2.83
+ETH,Ethiopia,Environment-related technologies,2012,1.5
+ETH,Ethiopia,Environment-related technologies,2013,3.0
+ETH,Ethiopia,Environment-related technologies,2014,0.5
+ETH,Ethiopia,Environment-related technologies,2015,0.83
+ETH,Ethiopia,Environment-related technologies,2016,0.33
+ETH,Ethiopia,Environment-related technologies,2017,0.33
+ETH,Ethiopia,Environment-related technologies,2018,0.5
+ETH,Ethiopia,Environment-related technologies,2019,0.25
+ETH,Ethiopia,Air pollution abatement,2015,0.33
+FRO,Faeroe Islands,Environment-related technologies,2010,0.5
+FRO,Faeroe Islands,Environment-related technologies,2011,1.83
+FRO,Faeroe Islands,Environment-related technologies,2012,1.5
+FRO,Faeroe Islands,Environment-related technologies,2013,1.0
+FRO,Faeroe Islands,Environment-related technologies,2014,1.0
+FRO,Faeroe Islands,Environment-related technologies,2015,1.5
+FRO,Faeroe Islands,Environment-related technologies,2016,1.0
+FRO,Faeroe Islands,Environment-related technologies,2017,0.67
+FRO,Faeroe Islands,Environment-related technologies,2018,1.0
+FJI,Fiji,Environment-related technologies,2014,0.5
+GUF,French Guiana,Environment-related technologies,2010,0.2
+GUF,French Guiana,Environment-related technologies,2011,0.25
+GUF,French Guiana,Environment-related technologies,2016,0.5
+GAB,Gabon,Environment-related technologies,2005,0.5
+GAB,Gabon,Environment-related technologies,2011,0.4
+GAB,Gabon,Environment-related technologies,2013,1.0
+GAB,Gabon,Environment-related technologies,2014,0.5
+GAB,Gabon,Environment-related technologies,2015,1.0
+GEO,Georgia,Environment-related technologies,1995,1.0
+GEO,Georgia,Environment-related technologies,2005,1.5
+GEO,Georgia,Environment-related technologies,2010,2.83
+GEO,Georgia,Environment-related technologies,2011,0.5
+GEO,Georgia,Environment-related technologies,2012,2.0
+GEO,Georgia,Environment-related technologies,2013,0.98
+GEO,Georgia,Environment-related technologies,2014,0.33
+GEO,Georgia,Environment-related technologies,2015,1.5
+GEO,Georgia,Environment-related technologies,2016,3.5
+GEO,Georgia,Environment-related technologies,2017,0.83
+GEO,Georgia,Environment-related technologies,2018,1.83
+GEO,Georgia,Air pollution abatement,2005,0.5
+GEO,Georgia,Air pollution abatement,2010,0.5
+GEO,Georgia,Air pollution abatement,2013,0.48
+GEO,Georgia,Air pollution abatement,2016,1.0
+GHA,Ghana,Environment-related technologies,2005,1.75
+GHA,Ghana,Environment-related technologies,2010,1.0
+GHA,Ghana,Environment-related technologies,2012,1.0
+GHA,Ghana,Environment-related technologies,2013,0.45
+GHA,Ghana,Environment-related technologies,2014,2.12
+GHA,Ghana,Environment-related technologies,2015,0.33
+GHA,Ghana,Environment-related technologies,2016,0.5
+GHA,Ghana,Environment-related technologies,2017,0.5
+GHA,Ghana,Environment-related technologies,2019,0.5
+GHA,Ghana,Air pollution abatement,2005,1.0
+GIB,Gibraltar,Environment-related technologies,2000,0.5
+GIB,Gibraltar,Environment-related technologies,2013,0.5
+GIB,Gibraltar,Environment-related technologies,2014,1.0
+GIB,Gibraltar,Environment-related technologies,2015,0.5
+GIB,Gibraltar,Environment-related technologies,2016,0.5
+GIB,Gibraltar,Environment-related technologies,2017,1.0
+GRL,Greenland,Environment-related technologies,2011,0.33
+GRL,Greenland,Environment-related technologies,2014,0.33
+GRD,Grenada,Environment-related technologies,2016,0.5
+GLP,Guadeloupe,Environment-related technologies,2011,0.5
+GLP,Guadeloupe,Environment-related technologies,2014,0.5
+GTM,Guatemala,Environment-related technologies,2005,0.33
+GTM,Guatemala,Environment-related technologies,2011,1.0
+GTM,Guatemala,Environment-related technologies,2019,1.0
+GUY,Guyana,Environment-related technologies,2000,0.33
+GUY,Guyana,Environment-related technologies,2010,0.7
+GUY,Guyana,Environment-related technologies,2011,1.5
+GUY,Guyana,Environment-related technologies,2013,0.75
+GUY,Guyana,Environment-related technologies,2014,0.2
+GUY,Guyana,Air pollution abatement,2014,0.2
+VAT,Holy See,Environment-related technologies,2012,0.5
+VAT,Holy See,Environment-related technologies,2013,0.5
+HND,Honduras,Environment-related technologies,2005,0.5
+HND,Honduras,Environment-related technologies,2014,0.5
+HND,Honduras,Air pollution abatement,2005,0.5
+HKG,"Hong Kong, China",Environment-related technologies,1995,3.0
+HKG,"Hong Kong, China",Environment-related technologies,2000,16.17
+HKG,"Hong Kong, China",Environment-related technologies,2005,25.28
+HKG,"Hong Kong, China",Environment-related technologies,2010,38.37
+HKG,"Hong Kong, China",Environment-related technologies,2011,22.18
+HKG,"Hong Kong, China",Environment-related technologies,2012,27.83
+HKG,"Hong Kong, China",Environment-related technologies,2013,46.8
+HKG,"Hong Kong, China",Environment-related technologies,2014,48.33
+HKG,"Hong Kong, China",Environment-related technologies,2015,35.53
+HKG,"Hong Kong, China",Environment-related technologies,2016,58.33
+HKG,"Hong Kong, China",Environment-related technologies,2017,44.28
+HKG,"Hong Kong, China",Environment-related technologies,2018,31.25
+HKG,"Hong Kong, China",Environment-related technologies,2019,39.37
+HKG,"Hong Kong, China",Air pollution abatement,2000,1.83
+HKG,"Hong Kong, China",Air pollution abatement,2005,7.28
+HKG,"Hong Kong, China",Air pollution abatement,2010,1.33
+HKG,"Hong Kong, China",Air pollution abatement,2011,1.58
+HKG,"Hong Kong, China",Air pollution abatement,2012,2.5
+HKG,"Hong Kong, China",Air pollution abatement,2013,5.5
+HKG,"Hong Kong, China",Air pollution abatement,2014,7.0
+HKG,"Hong Kong, China",Air pollution abatement,2015,2.83
+HKG,"Hong Kong, China",Air pollution abatement,2016,5.83
+HKG,"Hong Kong, China",Air pollution abatement,2017,3.25
+HKG,"Hong Kong, China",Air pollution abatement,2018,1.75
+HKG,"Hong Kong, China",Air pollution abatement,2019,7.5
+IND,India,Environment-related technologies,1995,9.92
+IND,India,Environment-related technologies,2000,44.58
+IND,India,Environment-related technologies,2005,159.73
+IND,India,Environment-related technologies,2010,432.34
+IND,India,Environment-related technologies,2011,513.17
+IND,India,Environment-related technologies,2012,480.33
+IND,India,Environment-related technologies,2013,488.49
+IND,India,Environment-related technologies,2014,432.67
+IND,India,Environment-related technologies,2015,521.91
+IND,India,Environment-related technologies,2016,509.39
+IND,India,Environment-related technologies,2017,514.55
+IND,India,Environment-related technologies,2018,502.75
+IND,India,Environment-related technologies,2019,511.64
+IND,India,Air pollution abatement,1995,1.5
+IND,India,Air pollution abatement,2000,6.83
+IND,India,Air pollution abatement,2005,21.83
+IND,India,Air pollution abatement,2010,64.23
+IND,India,Air pollution abatement,2011,71.92
+IND,India,Air pollution abatement,2012,63.12
+IND,India,Air pollution abatement,2013,92.16
+IND,India,Air pollution abatement,2014,85.92
+IND,India,Air pollution abatement,2015,92.3
+IND,India,Air pollution abatement,2016,76.5
+IND,India,Air pollution abatement,2017,59.79
+IND,India,Air pollution abatement,2018,79.03
+IND,India,Air pollution abatement,2019,71.42
+IDN,Indonesia,Environment-related technologies,1995,0.33
+IDN,Indonesia,Environment-related technologies,2000,4.0
+IDN,Indonesia,Environment-related technologies,2005,2.75
+IDN,Indonesia,Environment-related technologies,2010,7.6
+IDN,Indonesia,Environment-related technologies,2011,6.57
+IDN,Indonesia,Environment-related technologies,2012,8.11
+IDN,Indonesia,Environment-related technologies,2013,11.48
+IDN,Indonesia,Environment-related technologies,2014,4.87
+IDN,Indonesia,Environment-related technologies,2015,10.17
+IDN,Indonesia,Environment-related technologies,2016,6.0
+IDN,Indonesia,Environment-related technologies,2017,6.04
+IDN,Indonesia,Environment-related technologies,2018,4.83
+IDN,Indonesia,Environment-related technologies,2019,3.78
+IDN,Indonesia,Air pollution abatement,2000,1.5
+IDN,Indonesia,Air pollution abatement,2005,1.0
+IDN,Indonesia,Air pollution abatement,2010,0.33
+IDN,Indonesia,Air pollution abatement,2011,0.87
+IDN,Indonesia,Air pollution abatement,2013,1.14
+IDN,Indonesia,Air pollution abatement,2014,1.33
+IDN,Indonesia,Air pollution abatement,2015,0.33
+IDN,Indonesia,Air pollution abatement,2016,0.5
+IDN,Indonesia,Air pollution abatement,2017,0.25
+IRN,Iran,Environment-related technologies,1995,1.5
+IRN,Iran,Environment-related technologies,2000,2.0
+IRN,Iran,Environment-related technologies,2005,8.0
+IRN,Iran,Environment-related technologies,2010,10.6
+IRN,Iran,Environment-related technologies,2011,11.48
+IRN,Iran,Environment-related technologies,2012,13.53
+IRN,Iran,Environment-related technologies,2013,10.82
+IRN,Iran,Environment-related technologies,2014,11.95
+IRN,Iran,Environment-related technologies,2015,19.82
+IRN,Iran,Environment-related technologies,2016,18.12
+IRN,Iran,Environment-related technologies,2017,23.62
+IRN,Iran,Environment-related technologies,2018,21.75
+IRN,Iran,Environment-related technologies,2019,15.28
+IRN,Iran,Air pollution abatement,2000,1.0
+IRN,Iran,Air pollution abatement,2005,1.83
+IRN,Iran,Air pollution abatement,2011,0.83
+IRN,Iran,Air pollution abatement,2012,0.5
+IRN,Iran,Air pollution abatement,2014,1.5
+IRN,Iran,Air pollution abatement,2016,1.83
+IRN,Iran,Air pollution abatement,2017,3.5
+IRN,Iran,Air pollution abatement,2018,3.0
+IRN,Iran,Air pollution abatement,2019,2.0
+IRQ,Iraq,Environment-related technologies,1995,0.5
+IRQ,Iraq,Environment-related technologies,2011,0.33
+IRQ,Iraq,Environment-related technologies,2013,0.5
+IRQ,Iraq,Environment-related technologies,2015,1.5
+IRQ,Iraq,Environment-related technologies,2018,0.5
+IRQ,Iraq,Environment-related technologies,2019,1.0
+IRQ,Iraq,Air pollution abatement,1995,0.5
+ISR,Israel,Environment-related technologies,1995,34.75
+ISR,Israel,Environment-related technologies,2000,78.25
+ISR,Israel,Environment-related technologies,2005,115.48
+ISR,Israel,Environment-related technologies,2010,209.58
+ISR,Israel,Environment-related technologies,2011,245.61
+ISR,Israel,Environment-related technologies,2012,280.72
+ISR,Israel,Environment-related technologies,2013,211.48
+ISR,Israel,Environment-related technologies,2014,215.08
+ISR,Israel,Environment-related technologies,2015,217.58
+ISR,Israel,Environment-related technologies,2016,274.82
+ISR,Israel,Environment-related technologies,2017,271.51
+ISR,Israel,Environment-related technologies,2018,209.92
+ISR,Israel,Environment-related technologies,2019,181.17
+ISR,Israel,Air pollution abatement,1995,2.25
+ISR,Israel,Air pollution abatement,2000,5.0
+ISR,Israel,Air pollution abatement,2005,11.5
+ISR,Israel,Air pollution abatement,2010,13.17
+ISR,Israel,Air pollution abatement,2011,12.0
+ISR,Israel,Air pollution abatement,2012,11.83
+ISR,Israel,Air pollution abatement,2013,11.5
+ISR,Israel,Air pollution abatement,2014,14.67
+ISR,Israel,Air pollution abatement,2015,14.0
+ISR,Israel,Air pollution abatement,2016,18.0
+ISR,Israel,Air pollution abatement,2017,19.0
+ISR,Israel,Air pollution abatement,2018,14.17
+ISR,Israel,Air pollution abatement,2019,9.5
+JAM,Jamaica,Environment-related technologies,2005,1.0
+JAM,Jamaica,Environment-related technologies,2011,1.5
+JAM,Jamaica,Environment-related technologies,2012,0.33
+JAM,Jamaica,Environment-related technologies,2013,1.0
+JAM,Jamaica,Environment-related technologies,2015,2.5
+JAM,Jamaica,Environment-related technologies,2017,1.5
+JAM,Jamaica,Air pollution abatement,2015,2.0
+JAM,Jamaica,Air pollution abatement,2017,1.0
+JOR,Jordan,Environment-related technologies,1995,2.0
+JOR,Jordan,Environment-related technologies,2000,6.0
+JOR,Jordan,Environment-related technologies,2005,2.08
+JOR,Jordan,Environment-related technologies,2010,1.5
+JOR,Jordan,Environment-related technologies,2011,3.33
+JOR,Jordan,Environment-related technologies,2012,4.25
+JOR,Jordan,Environment-related technologies,2013,4.62
+JOR,Jordan,Environment-related technologies,2014,2.67
+JOR,Jordan,Environment-related technologies,2015,1.5
+JOR,Jordan,Environment-related technologies,2016,2.25
+JOR,Jordan,Environment-related technologies,2017,2.33
+JOR,Jordan,Environment-related technologies,2018,1.0
+JOR,Jordan,Air pollution abatement,2000,0.5
+JOR,Jordan,Air pollution abatement,2005,0.5
+JOR,Jordan,Air pollution abatement,2012,0.5
+JOR,Jordan,Air pollution abatement,2013,1.5
+JOR,Jordan,Air pollution abatement,2016,1.0
+KAZ,Kazakhstan,Environment-related technologies,2000,1.0
+KAZ,Kazakhstan,Environment-related technologies,2005,2.0
+KAZ,Kazakhstan,Environment-related technologies,2010,5.03
+KAZ,Kazakhstan,Environment-related technologies,2011,6.5
+KAZ,Kazakhstan,Environment-related technologies,2012,7.83
+KAZ,Kazakhstan,Environment-related technologies,2013,22.5
+KAZ,Kazakhstan,Environment-related technologies,2014,5.0
+KAZ,Kazakhstan,Environment-related technologies,2015,11.08
+KAZ,Kazakhstan,Environment-related technologies,2016,7.83
+KAZ,Kazakhstan,Environment-related technologies,2017,5.83
+KAZ,Kazakhstan,Environment-related technologies,2018,2.67
+KAZ,Kazakhstan,Environment-related technologies,2019,6.5
+KAZ,Kazakhstan,Air pollution abatement,2005,1.0
+KAZ,Kazakhstan,Air pollution abatement,2011,1.5
+KAZ,Kazakhstan,Air pollution abatement,2012,1.0
+KAZ,Kazakhstan,Air pollution abatement,2013,2.0
+KEN,Kenya,Environment-related technologies,1995,1.0
+KEN,Kenya,Environment-related technologies,2000,1.5
+KEN,Kenya,Environment-related technologies,2005,1.37
+KEN,Kenya,Environment-related technologies,2010,2.5
+KEN,Kenya,Environment-related technologies,2011,0.5
+KEN,Kenya,Environment-related technologies,2012,1.5
+KEN,Kenya,Environment-related technologies,2013,1.83
+KEN,Kenya,Environment-related technologies,2014,2.5
+KEN,Kenya,Environment-related technologies,2015,1.0
+KEN,Kenya,Environment-related technologies,2016,2.5
+KEN,Kenya,Environment-related technologies,2017,5.67
+KEN,Kenya,Environment-related technologies,2018,1.0
+KEN,Kenya,Environment-related technologies,2019,3.5
+KEN,Kenya,Air pollution abatement,2013,0.5
+KEN,Kenya,Air pollution abatement,2014,0.5
+KIR,Kiribati,Environment-related technologies,2011,0.5
+KWT,Kuwait,Environment-related technologies,2010,3.33
+KWT,Kuwait,Environment-related technologies,2011,1.0
+KWT,Kuwait,Environment-related technologies,2012,5.5
+KWT,Kuwait,Environment-related technologies,2013,1.0
+KWT,Kuwait,Environment-related technologies,2014,0.25
+KWT,Kuwait,Environment-related technologies,2015,1.5
+KWT,Kuwait,Environment-related technologies,2016,1.0
+KWT,Kuwait,Environment-related technologies,2017,2.5
+KWT,Kuwait,Environment-related technologies,2018,1.5
+KWT,Kuwait,Environment-related technologies,2019,7.0
+KWT,Kuwait,Air pollution abatement,2010,0.33
+KWT,Kuwait,Air pollution abatement,2012,0.5
+KGZ,Kyrgyzstan,Environment-related technologies,2014,1.67
+LAO,Lao People's Democratic Republic,Environment-related technologies,2000,0.33
+LAO,Lao People's Democratic Republic,Environment-related technologies,2011,0.5
+LAO,Lao People's Democratic Republic,Environment-related technologies,2014,0.5
+LAO,Lao People's Democratic Republic,Environment-related technologies,2017,3.0
+LVA,Latvia,Environment-related technologies,2000,1.33
+LVA,Latvia,Environment-related technologies,2010,1.0
+LVA,Latvia,Environment-related technologies,2011,5.25
+LVA,Latvia,Environment-related technologies,2012,5.5
+LVA,Latvia,Environment-related technologies,2013,7.0
+LVA,Latvia,Environment-related technologies,2014,3.0
+LVA,Latvia,Environment-related technologies,2015,1.5
+LVA,Latvia,Environment-related technologies,2017,2.83
+LVA,Latvia,Environment-related technologies,2018,1.0
+LVA,Latvia,Environment-related technologies,2019,3.5
+LVA,Latvia,Air pollution abatement,2011,1.0
+LVA,Latvia,Air pollution abatement,2019,2.5
+LBN,Lebanon,Environment-related technologies,1995,1.33
+LBN,Lebanon,Environment-related technologies,2000,1.0
+LBN,Lebanon,Environment-related technologies,2005,1.0
+LBN,Lebanon,Environment-related technologies,2010,4.58
+LBN,Lebanon,Environment-related technologies,2011,2.08
+LBN,Lebanon,Environment-related technologies,2012,2.0
+LBN,Lebanon,Environment-related technologies,2013,4.13
+LBN,Lebanon,Environment-related technologies,2014,5.33
+LBN,Lebanon,Environment-related technologies,2015,2.33
+LBN,Lebanon,Environment-related technologies,2016,1.5
+LBN,Lebanon,Environment-related technologies,2017,0.67
+LBN,Lebanon,Environment-related technologies,2018,1.0
+LBN,Lebanon,Environment-related technologies,2019,1.0
+LBN,Lebanon,Air pollution abatement,2011,1.5
+LBN,Lebanon,Air pollution abatement,2019,0.5
+LSO,Lesotho,Environment-related technologies,2015,0.33
+LBR,Liberia,Environment-related technologies,2012,0.5
+LBY,Libya,Environment-related technologies,2017,0.5
+LBY,Libya,Environment-related technologies,2018,0.5
+LIE,Liechtenstein,Environment-related technologies,1995,1.5
+LIE,Liechtenstein,Environment-related technologies,2000,1.33
+LIE,Liechtenstein,Environment-related technologies,2005,2.33
+LIE,Liechtenstein,Environment-related technologies,2010,2.25
+LIE,Liechtenstein,Environment-related technologies,2011,0.33
+LIE,Liechtenstein,Environment-related technologies,2012,3.67
+LIE,Liechtenstein,Environment-related technologies,2013,3.83
+LIE,Liechtenstein,Environment-related technologies,2014,2.17
+LIE,Liechtenstein,Environment-related technologies,2015,2.0
+LIE,Liechtenstein,Environment-related technologies,2016,0.5
+LIE,Liechtenstein,Environment-related technologies,2017,3.5
+LIE,Liechtenstein,Environment-related technologies,2018,1.5
+LIE,Liechtenstein,Environment-related technologies,2019,0.83
+LIE,Liechtenstein,Air pollution abatement,1995,0.83
+LIE,Liechtenstein,Air pollution abatement,2014,0.33
+LIE,Liechtenstein,Air pollution abatement,2015,0.5
+LIE,Liechtenstein,Air pollution abatement,2017,1.0
+LTU,Lithuania,Environment-related technologies,1995,3.0
+LTU,Lithuania,Environment-related technologies,2000,2.0
+LTU,Lithuania,Environment-related technologies,2005,5.0
+LTU,Lithuania,Environment-related technologies,2010,9.33
+LTU,Lithuania,Environment-related technologies,2011,4.1
+LTU,Lithuania,Environment-related technologies,2012,6.5
+LTU,Lithuania,Environment-related technologies,2013,8.08
+LTU,Lithuania,Environment-related technologies,2014,6.58
+LTU,Lithuania,Environment-related technologies,2015,8.0
+LTU,Lithuania,Environment-related technologies,2016,5.58
+LTU,Lithuania,Environment-related technologies,2017,4.67
+LTU,Lithuania,Environment-related technologies,2018,6.0
+LTU,Lithuania,Environment-related technologies,2019,3.5
+LTU,Lithuania,Air pollution abatement,2010,2.0
+LTU,Lithuania,Air pollution abatement,2012,2.0
+LTU,Lithuania,Air pollution abatement,2013,1.25
+LTU,Lithuania,Air pollution abatement,2014,1.25
+LTU,Lithuania,Air pollution abatement,2015,3.0
+LTU,Lithuania,Air pollution abatement,2016,2.25
+LTU,Lithuania,Air pollution abatement,2017,0.5
+LTU,Lithuania,Air pollution abatement,2018,4.5
+MKD,North Macedonia,Environment-related technologies,2005,1.75
+MKD,North Macedonia,Environment-related technologies,2011,0.33
+MKD,North Macedonia,Environment-related technologies,2012,0.33
+MKD,North Macedonia,Environment-related technologies,2015,0.5
+MKD,North Macedonia,Environment-related technologies,2018,2.0
+MKD,North Macedonia,Air pollution abatement,2005,1.25
+MDG,Madagascar,Environment-related technologies,2011,0.2
+MDG,Madagascar,Environment-related technologies,2012,1.0
+MDG,Madagascar,Environment-related technologies,2015,0.5
+MYS,Malaysia,Environment-related technologies,1995,5.83
+MYS,Malaysia,Environment-related technologies,2000,6.67
+MYS,Malaysia,Environment-related technologies,2005,11.08
+MYS,Malaysia,Environment-related technologies,2010,40.6
+MYS,Malaysia,Environment-related technologies,2011,54.45
+MYS,Malaysia,Environment-related technologies,2012,47.68
+MYS,Malaysia,Environment-related technologies,2013,51.5
+MYS,Malaysia,Environment-related technologies,2014,40.79
+MYS,Malaysia,Environment-related technologies,2015,31.67
+MYS,Malaysia,Environment-related technologies,2016,37.28
+MYS,Malaysia,Environment-related technologies,2017,31.03
+MYS,Malaysia,Environment-related technologies,2018,25.0
+MYS,Malaysia,Environment-related technologies,2019,32.83
+MYS,Malaysia,Air pollution abatement,1995,0.5
+MYS,Malaysia,Air pollution abatement,2005,1.5
+MYS,Malaysia,Air pollution abatement,2010,3.83
+MYS,Malaysia,Air pollution abatement,2011,3.5
+MYS,Malaysia,Air pollution abatement,2012,2.5
+MYS,Malaysia,Air pollution abatement,2013,1.5
+MYS,Malaysia,Air pollution abatement,2014,1.0
+MYS,Malaysia,Air pollution abatement,2015,0.83
+MYS,Malaysia,Air pollution abatement,2016,3.5
+MYS,Malaysia,Air pollution abatement,2017,3.17
+MYS,Malaysia,Air pollution abatement,2018,5.33
+MYS,Malaysia,Air pollution abatement,2019,3.0
+MDV,Maldives,Environment-related technologies,2011,0.17
+MLI,Mali,Environment-related technologies,2016,0.67
+MLI,Mali,Environment-related technologies,2018,0.14
+MLI,Mali,Environment-related technologies,2019,0.43
+MLI,Mali,Air pollution abatement,2016,0.17
+MLT,Malta,Environment-related technologies,2000,1.0
+MLT,Malta,Environment-related technologies,2005,1.5
+MLT,Malta,Environment-related technologies,2010,1.0
+MLT,Malta,Environment-related technologies,2011,0.2
+MLT,Malta,Environment-related technologies,2012,2.0
+MLT,Malta,Environment-related technologies,2013,2.0
+MLT,Malta,Environment-related technologies,2014,6.0
+MLT,Malta,Environment-related technologies,2015,4.0
+MLT,Malta,Environment-related technologies,2016,11.0
+MLT,Malta,Environment-related technologies,2017,1.5
+MLT,Malta,Environment-related technologies,2018,2.33
+MLT,Malta,Environment-related technologies,2019,3.0
+MLT,Malta,Air pollution abatement,2000,1.0
+MLT,Malta,Air pollution abatement,2013,1.0
+MLT,Malta,Air pollution abatement,2015,0.5
+MHL,Marshall Islands,Environment-related technologies,2016,0.5
+MRT,Mauritania,Environment-related technologies,2010,0.5
+MRT,Mauritania,Environment-related technologies,2011,0.33
+MRT,Mauritania,Environment-related technologies,2016,0.25
+MRT,Mauritania,Environment-related technologies,2017,0.67
+MRT,Mauritania,Air pollution abatement,2010,1.5
+MRT,Mauritania,Air pollution abatement,2011,0.33
+MUS,Mauritius,Environment-related technologies,2005,1.08
+MUS,Mauritius,Environment-related technologies,2011,1.25
+MUS,Mauritius,Environment-related technologies,2012,1.25
+MUS,Mauritius,Environment-related technologies,2015,3.0
+MUS,Mauritius,Environment-related technologies,2016,1.0
+MUS,Mauritius,Environment-related technologies,2017,0.25
+MUS,Mauritius,Environment-related technologies,2019,1.2
+MUS,Mauritius,Air pollution abatement,2005,0.58
+MUS,Mauritius,Air pollution abatement,2011,1.25
+MUS,Mauritius,Air pollution abatement,2012,1.25
+MDA,Moldova,Environment-related technologies,1995,1.0
+MDA,Moldova,Environment-related technologies,2005,4.67
+MDA,Moldova,Environment-related technologies,2011,1.5
+MDA,Moldova,Environment-related technologies,2012,0.33
+MDA,Moldova,Environment-related technologies,2013,2.5
+MDA,Moldova,Environment-related technologies,2014,1.0
+MDA,Moldova,Environment-related technologies,2015,1.0
+MDA,Moldova,Environment-related technologies,2016,2.83
+MDA,Moldova,Environment-related technologies,2018,0.33
+MDA,Moldova,Environment-related technologies,2019,0.43
+MDA,Moldova,Air pollution abatement,2005,0.5
+MDA,Moldova,Air pollution abatement,2013,1.0
+MDA,Moldova,Air pollution abatement,2016,0.33
+MCO,Monaco,Environment-related technologies,1995,1.5
+MCO,Monaco,Environment-related technologies,2000,2.5
+MCO,Monaco,Environment-related technologies,2005,1.33
+MCO,Monaco,Environment-related technologies,2010,3.5
+MCO,Monaco,Environment-related technologies,2011,1.5
+MCO,Monaco,Environment-related technologies,2012,0.5
+MCO,Monaco,Environment-related technologies,2013,2.33
+MCO,Monaco,Environment-related technologies,2014,2.0
+MCO,Monaco,Environment-related technologies,2015,1.25
+MCO,Monaco,Environment-related technologies,2016,0.5
+MCO,Monaco,Environment-related technologies,2017,4.0
+MCO,Monaco,Environment-related technologies,2018,1.0
+MCO,Monaco,Environment-related technologies,2019,3.0
+MCO,Monaco,Air pollution abatement,1995,0.5
+MCO,Monaco,Air pollution abatement,2000,1.0
+MCO,Monaco,Air pollution abatement,2013,0.5
+MCO,Monaco,Air pollution abatement,2017,1.0
+MNG,Mongolia,Environment-related technologies,2005,0.33
+MNG,Mongolia,Environment-related technologies,2011,0.43
+MNG,Mongolia,Environment-related technologies,2012,0.5
+MNG,Mongolia,Environment-related technologies,2013,0.5
+MNG,Mongolia,Environment-related technologies,2014,1.8
+MNG,Mongolia,Environment-related technologies,2015,0.2
+MNG,Mongolia,Environment-related technologies,2016,0.5
+MNG,Mongolia,Environment-related technologies,2017,1.29
+MNG,Mongolia,Environment-related technologies,2019,0.5
+MNG,Mongolia,Air pollution abatement,2005,0.33
+MNG,Mongolia,Air pollution abatement,2014,0.8
+MNG,Mongolia,Air pollution abatement,2015,0.2
+MNG,Mongolia,Air pollution abatement,2017,0.29
+MNG,Mongolia,Air pollution abatement,2019,0.5
+MAR,Morocco,Environment-related technologies,1995,1.17
+MAR,Morocco,Environment-related technologies,2000,1.83
+MAR,Morocco,Environment-related technologies,2005,0.75
+MAR,Morocco,Environment-related technologies,2010,5.31
+MAR,Morocco,Environment-related technologies,2011,7.2
+MAR,Morocco,Environment-related technologies,2012,10.92
+MAR,Morocco,Environment-related technologies,2013,18.57
+MAR,Morocco,Environment-related technologies,2014,9.58
+MAR,Morocco,Environment-related technologies,2015,11.08
+MAR,Morocco,Environment-related technologies,2016,10.5
+MAR,Morocco,Environment-related technologies,2017,15.33
+MAR,Morocco,Environment-related technologies,2018,7.33
+MAR,Morocco,Environment-related technologies,2019,8.67
+MAR,Morocco,Air pollution abatement,2005,0.5
+MAR,Morocco,Air pollution abatement,2011,0.33
+MAR,Morocco,Air pollution abatement,2012,1.0
+MAR,Morocco,Air pollution abatement,2013,2.0
+MAR,Morocco,Air pollution abatement,2014,0.5
+MAR,Morocco,Air pollution abatement,2019,0.5
+MMR,Myanmar,Environment-related technologies,2010,1.5
+MMR,Myanmar,Environment-related technologies,2011,0.2
+MMR,Myanmar,Environment-related technologies,2015,0.2
+MMR,Myanmar,Environment-related technologies,2016,0.33
+MMR,Myanmar,Environment-related technologies,2017,0.17
+MMR,Myanmar,Air pollution abatement,2011,0.2
+NAM,Namibia,Environment-related technologies,2011,1.83
+NAM,Namibia,Environment-related technologies,2012,1.75
+NAM,Namibia,Environment-related technologies,2013,0.83
+NAM,Namibia,Environment-related technologies,2014,0.5
+NAM,Namibia,Environment-related technologies,2016,1.5
+NAM,Namibia,Environment-related technologies,2018,0.33
+NAM,Namibia,Air pollution abatement,2018,0.33
+NPL,Nepal,Environment-related technologies,2000,0.5
+NPL,Nepal,Environment-related technologies,2010,0.67
+NPL,Nepal,Environment-related technologies,2011,2.17
+NPL,Nepal,Environment-related technologies,2012,1.87
+NPL,Nepal,Environment-related technologies,2013,2.22
+NPL,Nepal,Environment-related technologies,2014,0.25
+NPL,Nepal,Environment-related technologies,2015,1.58
+NPL,Nepal,Environment-related technologies,2016,0.33
+NPL,Nepal,Environment-related technologies,2017,2.0
+NPL,Nepal,Environment-related technologies,2018,2.5
+NPL,Nepal,Air pollution abatement,2013,0.33
+ANT,Netherlands Antilles,Environment-related technologies,2000,0.92
+ANT,Netherlands Antilles,Environment-related technologies,2005,1.33
+ANT,Netherlands Antilles,Environment-related technologies,2013,1.0
+ANT,Netherlands Antilles,Environment-related technologies,2015,0.33
+ANT,Netherlands Antilles,Environment-related technologies,2016,0.7
+ANT,Netherlands Antilles,Environment-related technologies,2017,0.45
+ANT,Netherlands Antilles,Air pollution abatement,2000,0.67
+ANT,Netherlands Antilles,Air pollution abatement,2005,1.0
+ANT,Netherlands Antilles,Air pollution abatement,2016,0.45
+NCL,New Caledonia,Environment-related technologies,1995,0.33
+NCL,New Caledonia,Environment-related technologies,2010,0.33
+NCL,New Caledonia,Environment-related technologies,2013,1.0
+NCL,New Caledonia,Environment-related technologies,2014,0.5
+NCL,New Caledonia,Environment-related technologies,2015,0.5
+NIC,Nicaragua,Environment-related technologies,2011,1.0
+NER,Niger,Environment-related technologies,2012,0.5
+NER,Niger,Environment-related technologies,2013,0.33
+NER,Niger,Environment-related technologies,2016,0.33
+NER,Niger,Environment-related technologies,2017,1.83
+NER,Niger,Environment-related technologies,2018,1.0
+NGA,Nigeria,Environment-related technologies,1995,0.75
+NGA,Nigeria,Environment-related technologies,2000,0.25
+NGA,Nigeria,Environment-related technologies,2005,0.5
+NGA,Nigeria,Environment-related technologies,2010,2.7
+NGA,Nigeria,Environment-related technologies,2011,0.7
+NGA,Nigeria,Environment-related technologies,2012,1.92
+NGA,Nigeria,Environment-related technologies,2013,2.98
+NGA,Nigeria,Environment-related technologies,2014,1.98
+NGA,Nigeria,Environment-related technologies,2015,1.83
+NGA,Nigeria,Environment-related technologies,2016,1.5
+NGA,Nigeria,Environment-related technologies,2018,0.5
+NGA,Nigeria,Environment-related technologies,2019,0.33
+PSE,Palestinian Authority or West Bank and Gaza Strip,Air pollution abatement,2014,1.0
+OMN,Oman,Environment-related technologies,2012,0.33
+OMN,Oman,Environment-related technologies,2015,0.5
+OMN,Oman,Environment-related technologies,2017,1.0
+OMN,Oman,Environment-related technologies,2018,2.5
+OMN,Oman,Environment-related technologies,2019,1.5
+PAK,Pakistan,Environment-related technologies,1995,0.33
+PAK,Pakistan,Environment-related technologies,2005,2.17
+PAK,Pakistan,Environment-related technologies,2010,4.67
+PAK,Pakistan,Environment-related technologies,2011,16.37
+PAK,Pakistan,Environment-related technologies,2012,7.62
+PAK,Pakistan,Environment-related technologies,2013,6.69
+PAK,Pakistan,Environment-related technologies,2014,6.64
+PAK,Pakistan,Environment-related technologies,2015,3.88
+PAK,Pakistan,Environment-related technologies,2016,5.12
+PAK,Pakistan,Environment-related technologies,2017,3.4
+PAK,Pakistan,Environment-related technologies,2018,4.75
+PAK,Pakistan,Environment-related technologies,2019,2.33
+PAK,Pakistan,Air pollution abatement,2005,0.83
+PAK,Pakistan,Air pollution abatement,2013,0.75
+PAK,Pakistan,Air pollution abatement,2014,1.0
+PAK,Pakistan,Air pollution abatement,2015,0.5
+PAK,Pakistan,Air pollution abatement,2017,0.5
+PAN,Panama,Environment-related technologies,1995,1.0
+PAN,Panama,Environment-related technologies,2005,2.25
+PAN,Panama,Environment-related technologies,2010,0.5
+PAN,Panama,Environment-related technologies,2011,1.33
+PAN,Panama,Environment-related technologies,2012,1.67
+PAN,Panama,Environment-related technologies,2013,2.0
+PAN,Panama,Environment-related technologies,2014,1.5
+PAN,Panama,Environment-related technologies,2015,0.5
+PAN,Panama,Environment-related technologies,2016,6.5
+PAN,Panama,Environment-related technologies,2017,3.5
+PAN,Panama,Environment-related technologies,2018,9.5
+PAN,Panama,Environment-related technologies,2019,0.83
+PAN,Panama,Air pollution abatement,2005,1.0
+PAN,Panama,Air pollution abatement,2011,0.33
+PAN,Panama,Air pollution abatement,2012,0.5
+PAN,Panama,Air pollution abatement,2016,1.0
+PAN,Panama,Air pollution abatement,2017,1.0
+PAN,Panama,Air pollution abatement,2018,1.0
+PNG,Papua New Guinea,Environment-related technologies,1995,0.5
+PRY,Paraguay,Environment-related technologies,2010,3.0
+PRY,Paraguay,Environment-related technologies,2011,0.5
+PRY,Paraguay,Environment-related technologies,2018,1.5
+PRY,Paraguay,Environment-related technologies,2019,1.0
+PER,Peru,Environment-related technologies,2000,1.0
+PER,Peru,Environment-related technologies,2005,1.0
+PER,Peru,Environment-related technologies,2010,3.83
+PER,Peru,Environment-related technologies,2011,1.58
+PER,Peru,Environment-related technologies,2012,4.0
+PER,Peru,Environment-related technologies,2013,4.5
+PER,Peru,Environment-related technologies,2014,6.33
+PER,Peru,Environment-related technologies,2015,6.5
+PER,Peru,Environment-related technologies,2016,7.33
+PER,Peru,Environment-related technologies,2017,5.5
+PER,Peru,Environment-related technologies,2018,4.5
+PER,Peru,Environment-related technologies,2019,3.0
+PER,Peru,Air pollution abatement,2010,0.5
+PER,Peru,Air pollution abatement,2011,0.5
+PER,Peru,Air pollution abatement,2014,2.5
+PER,Peru,Air pollution abatement,2015,2.5
+PER,Peru,Air pollution abatement,2016,1.83
+PER,Peru,Air pollution abatement,2017,1.0
+PER,Peru,Air pollution abatement,2019,1.0
+PHL,Philippines,Environment-related technologies,1995,0.5
+PHL,Philippines,Environment-related technologies,2000,1.5
+PHL,Philippines,Environment-related technologies,2005,9.48
+PHL,Philippines,Environment-related technologies,2010,15.5
+PHL,Philippines,Environment-related technologies,2011,6.62
+PHL,Philippines,Environment-related technologies,2012,9.9
+PHL,Philippines,Environment-related technologies,2013,10.08
+PHL,Philippines,Environment-related technologies,2014,15.42
+PHL,Philippines,Environment-related technologies,2015,8.17
+PHL,Philippines,Environment-related technologies,2016,7.67
+PHL,Philippines,Environment-related technologies,2017,11.54
+PHL,Philippines,Environment-related technologies,2018,14.17
+PHL,Philippines,Environment-related technologies,2019,10.5
+PHL,Philippines,Air pollution abatement,2005,3.83
+PHL,Philippines,Air pollution abatement,2010,2.5
+PHL,Philippines,Air pollution abatement,2011,0.25
+PHL,Philippines,Air pollution abatement,2016,1.0
+PHL,Philippines,Air pollution abatement,2017,1.54
+PHL,Philippines,Air pollution abatement,2019,1.5
+PRI,Puerto Rico,Environment-related technologies,2010,0.7
+PRI,Puerto Rico,Environment-related technologies,2011,0.5
+PRI,Puerto Rico,Environment-related technologies,2012,1.5
+PRI,Puerto Rico,Environment-related technologies,2013,2.0
+PRI,Puerto Rico,Environment-related technologies,2014,0.5
+PRI,Puerto Rico,Environment-related technologies,2015,1.33
+PRI,Puerto Rico,Environment-related technologies,2016,0.5
+PRI,Puerto Rico,Environment-related technologies,2018,0.5
+PRI,Puerto Rico,Air pollution abatement,2015,0.5
+QAT,Qatar,Environment-related technologies,2005,0.33
+QAT,Qatar,Environment-related technologies,2010,0.5
+QAT,Qatar,Environment-related technologies,2011,6.33
+QAT,Qatar,Environment-related technologies,2012,3.75
+QAT,Qatar,Environment-related technologies,2013,1.83
+QAT,Qatar,Environment-related technologies,2014,5.5
+QAT,Qatar,Environment-related technologies,2015,9.75
+QAT,Qatar,Environment-related technologies,2016,11.33
+QAT,Qatar,Environment-related technologies,2017,8.58
+QAT,Qatar,Environment-related technologies,2018,7.25
+QAT,Qatar,Environment-related technologies,2019,4.5
+QAT,Qatar,Air pollution abatement,2011,1.0
+QAT,Qatar,Air pollution abatement,2012,0.5
+QAT,Qatar,Air pollution abatement,2016,1.0
+QAT,Qatar,Air pollution abatement,2017,3.08
+QAT,Qatar,Air pollution abatement,2018,3.0
+REU,Réunion,Environment-related technologies,2010,0.5
+REU,Réunion,Environment-related technologies,2011,1.5
+REU,Réunion,Environment-related technologies,2016,0.5
+ROU,Romania,Environment-related technologies,1995,5.17
+ROU,Romania,Environment-related technologies,2000,8.0
+ROU,Romania,Environment-related technologies,2005,16.07
+ROU,Romania,Environment-related technologies,2010,20.12
+ROU,Romania,Environment-related technologies,2011,17.58
+ROU,Romania,Environment-related technologies,2012,27.62
+ROU,Romania,Environment-related technologies,2013,20.95
+ROU,Romania,Environment-related technologies,2014,12.47
+ROU,Romania,Environment-related technologies,2015,10.33
+ROU,Romania,Environment-related technologies,2016,14.67
+ROU,Romania,Environment-related technologies,2017,31.33
+ROU,Romania,Environment-related technologies,2018,18.73
+ROU,Romania,Environment-related technologies,2019,10.2
+ROU,Romania,Air pollution abatement,2000,4.5
+ROU,Romania,Air pollution abatement,2005,4.37
+ROU,Romania,Air pollution abatement,2010,2.83
+ROU,Romania,Air pollution abatement,2011,3.5
+ROU,Romania,Air pollution abatement,2012,4.5
+ROU,Romania,Air pollution abatement,2013,5.0
+ROU,Romania,Air pollution abatement,2014,4.3
+ROU,Romania,Air pollution abatement,2015,0.5
+ROU,Romania,Air pollution abatement,2016,3.0
+ROU,Romania,Air pollution abatement,2017,7.0
+ROU,Romania,Air pollution abatement,2018,8.5
+ROU,Romania,Air pollution abatement,2019,3.0
+RUS,Russia,Environment-related technologies,1995,32.83
+RUS,Russia,Environment-related technologies,2000,104.17
+RUS,Russia,Environment-related technologies,2005,112.52
+RUS,Russia,Environment-related technologies,2010,142.54
+RUS,Russia,Environment-related technologies,2011,172.43
+RUS,Russia,Environment-related technologies,2012,156.04
+RUS,Russia,Environment-related technologies,2013,141.86
+RUS,Russia,Environment-related technologies,2014,149.12
+RUS,Russia,Environment-related technologies,2015,105.82
+RUS,Russia,Environment-related technologies,2016,126.35
+RUS,Russia,Environment-related technologies,2017,138.95
+RUS,Russia,Environment-related technologies,2018,132.21
+RUS,Russia,Environment-related technologies,2019,89.89
+RUS,Russia,Air pollution abatement,1995,1.5
+RUS,Russia,Air pollution abatement,2000,12.0
+RUS,Russia,Air pollution abatement,2005,22.42
+RUS,Russia,Air pollution abatement,2010,23.93
+RUS,Russia,Air pollution abatement,2011,14.83
+RUS,Russia,Air pollution abatement,2012,14.92
+RUS,Russia,Air pollution abatement,2013,11.0
+RUS,Russia,Air pollution abatement,2014,16.42
+RUS,Russia,Air pollution abatement,2015,12.0
+RUS,Russia,Air pollution abatement,2016,16.83
+RUS,Russia,Air pollution abatement,2017,13.5
+RUS,Russia,Air pollution abatement,2018,18.37
+RUS,Russia,Air pollution abatement,2019,5.75
+KNA,Saint Kitts and Nevis,Environment-related technologies,2011,0.5
+KNA,Saint Kitts and Nevis,Environment-related technologies,2014,0.83
+VCT,Saint Vincent and the Grenadines,Environment-related technologies,2010,0.5
+SMR,San Marino,Environment-related technologies,2014,0.25
+SAU,Saudi Arabia,Environment-related technologies,1995,1.0
+SAU,Saudi Arabia,Environment-related technologies,2000,3.0
+SAU,Saudi Arabia,Environment-related technologies,2005,8.42
+SAU,Saudi Arabia,Environment-related technologies,2010,20.25
+SAU,Saudi Arabia,Environment-related technologies,2011,37.37
+SAU,Saudi Arabia,Environment-related technologies,2012,51.3
+SAU,Saudi Arabia,Environment-related technologies,2013,62.95
+SAU,Saudi Arabia,Environment-related technologies,2014,73.58
+SAU,Saudi Arabia,Environment-related technologies,2015,101.33
+SAU,Saudi Arabia,Environment-related technologies,2016,87.57
+SAU,Saudi Arabia,Environment-related technologies,2017,171.45
+SAU,Saudi Arabia,Environment-related technologies,2018,99.2
+SAU,Saudi Arabia,Environment-related technologies,2019,117.83
+SAU,Saudi Arabia,Air pollution abatement,2000,0.33
+SAU,Saudi Arabia,Air pollution abatement,2005,1.67
+SAU,Saudi Arabia,Air pollution abatement,2010,8.33
+SAU,Saudi Arabia,Air pollution abatement,2011,5.33
+SAU,Saudi Arabia,Air pollution abatement,2012,12.1
+SAU,Saudi Arabia,Air pollution abatement,2013,16.25
+SAU,Saudi Arabia,Air pollution abatement,2014,24.83
+SAU,Saudi Arabia,Air pollution abatement,2015,18.33
+SAU,Saudi Arabia,Air pollution abatement,2016,17.15
+SAU,Saudi Arabia,Air pollution abatement,2017,34.67
+SAU,Saudi Arabia,Air pollution abatement,2018,21.33
+SAU,Saudi Arabia,Air pollution abatement,2019,22.42
+SEN,Senegal,Environment-related technologies,2010,0.53
+SEN,Senegal,Environment-related technologies,2011,0.5
+SEN,Senegal,Environment-related technologies,2012,0.5
+SEN,Senegal,Environment-related technologies,2015,0.5
+SEN,Senegal,Environment-related technologies,2018,1.0
+SEN,Senegal,Environment-related technologies,2019,1.0
+SYC,Seychelles,Environment-related technologies,2005,0.33
+SYC,Seychelles,Environment-related technologies,2013,0.5
+SYC,Seychelles,Environment-related technologies,2015,0.33
+SYC,Seychelles,Environment-related technologies,2016,0.5
+SYC,Seychelles,Environment-related technologies,2017,1.0
+SYC,Seychelles,Environment-related technologies,2018,1.33
+SYC,Seychelles,Air pollution abatement,2018,0.33
+SLE,Sierra Leone,Environment-related technologies,2012,0.33
+SLE,Sierra Leone,Environment-related technologies,2018,0.67
+SLE,Sierra Leone,Environment-related technologies,2019,1.33
+SGP,Singapore,Environment-related technologies,1995,4.83
+SGP,Singapore,Environment-related technologies,2000,17.17
+SGP,Singapore,Environment-related technologies,2005,48.02
+SGP,Singapore,Environment-related technologies,2010,99.9
+SGP,Singapore,Environment-related technologies,2011,126.47
+SGP,Singapore,Environment-related technologies,2012,118.77
+SGP,Singapore,Environment-related technologies,2013,113.0
+SGP,Singapore,Environment-related technologies,2014,108.13
+SGP,Singapore,Environment-related technologies,2015,97.67
+SGP,Singapore,Environment-related technologies,2016,104.0
+SGP,Singapore,Environment-related technologies,2017,122.59
+SGP,Singapore,Environment-related technologies,2018,100.32
+SGP,Singapore,Environment-related technologies,2019,85.28
+SGP,Singapore,Air pollution abatement,1995,0.5
+SGP,Singapore,Air pollution abatement,2000,1.0
+SGP,Singapore,Air pollution abatement,2005,4.7
+SGP,Singapore,Air pollution abatement,2010,6.67
+SGP,Singapore,Air pollution abatement,2011,6.7
+SGP,Singapore,Air pollution abatement,2012,12.5
+SGP,Singapore,Air pollution abatement,2013,12.5
+SGP,Singapore,Air pollution abatement,2014,12.5
+SGP,Singapore,Air pollution abatement,2015,10.5
+SGP,Singapore,Air pollution abatement,2016,8.83
+SGP,Singapore,Air pollution abatement,2017,9.79
+SGP,Singapore,Air pollution abatement,2018,6.0
+SGP,Singapore,Air pollution abatement,2019,11.5
+SVN,Slovenia,Environment-related technologies,1995,3.0
+SVN,Slovenia,Environment-related technologies,2000,4.33
+SVN,Slovenia,Environment-related technologies,2005,12.5
+SVN,Slovenia,Environment-related technologies,2010,12.5
+SVN,Slovenia,Environment-related technologies,2011,18.5
+SVN,Slovenia,Environment-related technologies,2012,18.67
+SVN,Slovenia,Environment-related technologies,2013,22.5
+SVN,Slovenia,Environment-related technologies,2014,19.75
+SVN,Slovenia,Environment-related technologies,2015,17.83
+SVN,Slovenia,Environment-related technologies,2016,21.13
+SVN,Slovenia,Environment-related technologies,2017,18.5
+SVN,Slovenia,Environment-related technologies,2018,13.67
+SVN,Slovenia,Environment-related technologies,2019,17.67
+SVN,Slovenia,Air pollution abatement,1995,1.0
+SVN,Slovenia,Air pollution abatement,2000,1.0
+SVN,Slovenia,Air pollution abatement,2005,1.0
+SVN,Slovenia,Air pollution abatement,2010,2.0
+SVN,Slovenia,Air pollution abatement,2011,4.5
+SVN,Slovenia,Air pollution abatement,2012,4.0
+SVN,Slovenia,Air pollution abatement,2013,4.0
+SVN,Slovenia,Air pollution abatement,2014,2.5
+SVN,Slovenia,Air pollution abatement,2015,4.5
+SVN,Slovenia,Air pollution abatement,2016,3.0
+SVN,Slovenia,Air pollution abatement,2017,1.0
+SVN,Slovenia,Air pollution abatement,2019,4.5
+SLB,Solomon Islands,Environment-related technologies,2015,0.5
+SOM,Somalia,Environment-related technologies,2012,0.5
+SOM,Somalia,Environment-related technologies,2013,0.5
+SOM,Somalia,Air pollution abatement,2013,0.5
+ZAF,South Africa,Environment-related technologies,1995,15.83
+ZAF,South Africa,Environment-related technologies,2000,43.17
+ZAF,South Africa,Environment-related technologies,2005,66.83
+ZAF,South Africa,Environment-related technologies,2010,61.28
+ZAF,South Africa,Environment-related technologies,2011,48.83
+ZAF,South Africa,Environment-related technologies,2012,55.19
+ZAF,South Africa,Environment-related technologies,2013,48.83
+ZAF,South Africa,Environment-related technologies,2014,52.78
+ZAF,South Africa,Environment-related technologies,2015,62.17
+ZAF,South Africa,Environment-related technologies,2016,24.08
+ZAF,South Africa,Environment-related technologies,2017,25.75
+ZAF,South Africa,Environment-related technologies,2018,35.0
+ZAF,South Africa,Environment-related technologies,2019,30.5
+ZAF,South Africa,Air pollution abatement,1995,1.0
+ZAF,South Africa,Air pollution abatement,2000,4.0
+ZAF,South Africa,Air pollution abatement,2005,2.83
+ZAF,South Africa,Air pollution abatement,2010,2.5
+ZAF,South Africa,Air pollution abatement,2011,5.0
+ZAF,South Africa,Air pollution abatement,2012,6.33
+ZAF,South Africa,Air pollution abatement,2013,2.0
+ZAF,South Africa,Air pollution abatement,2014,5.0
+ZAF,South Africa,Air pollution abatement,2015,3.0
+ZAF,South Africa,Air pollution abatement,2016,1.5
+ZAF,South Africa,Air pollution abatement,2017,0.5
+ZAF,South Africa,Air pollution abatement,2018,3.0
+ZAF,South Africa,Air pollution abatement,2019,0.5
+LKA,Sri Lanka,Environment-related technologies,1995,1.0
+LKA,Sri Lanka,Environment-related technologies,2000,1.0
+LKA,Sri Lanka,Environment-related technologies,2005,1.5
+LKA,Sri Lanka,Environment-related technologies,2010,2.0
+LKA,Sri Lanka,Environment-related technologies,2011,1.0
+LKA,Sri Lanka,Environment-related technologies,2012,3.5
+LKA,Sri Lanka,Environment-related technologies,2013,13.19
+LKA,Sri Lanka,Environment-related technologies,2014,1.03
+LKA,Sri Lanka,Environment-related technologies,2015,2.79
+LKA,Sri Lanka,Environment-related technologies,2016,0.5
+LKA,Sri Lanka,Environment-related technologies,2017,1.5
+LKA,Sri Lanka,Environment-related technologies,2018,1.5
+LKA,Sri Lanka,Environment-related technologies,2019,1.33
+LKA,Sri Lanka,Air pollution abatement,2013,1.25
+LKA,Sri Lanka,Air pollution abatement,2014,1.25
+SDN,Sudan,Environment-related technologies,2005,3.17
+SDN,Sudan,Environment-related technologies,2010,1.25
+SDN,Sudan,Environment-related technologies,2013,1.0
+SDN,Sudan,Environment-related technologies,2018,1.5
+SDN,Sudan,Environment-related technologies,2019,1.0
+SDN,Sudan,Air pollution abatement,2005,1.0
+SDN,Sudan,Air pollution abatement,2010,3.0
+SDN,Sudan,Air pollution abatement,2019,1.0
+SWZ,Eswatini,Environment-related technologies,2013,0.25
+SWZ,Eswatini,Environment-related technologies,2014,1.33
+SWZ,Eswatini,Environment-related technologies,2015,0.33
+SWZ,Eswatini,Environment-related technologies,2019,0.5
+SWZ,Eswatini,Air pollution abatement,2013,0.25
+SYR,Syrian Arab Republic,Environment-related technologies,1995,1.0
+SYR,Syrian Arab Republic,Environment-related technologies,2000,0.83
+SYR,Syrian Arab Republic,Environment-related technologies,2005,1.0
+SYR,Syrian Arab Republic,Environment-related technologies,2010,0.33
+SYR,Syrian Arab Republic,Environment-related technologies,2015,1.0
+SYR,Syrian Arab Republic,Environment-related technologies,2018,1.0
+SYR,Syrian Arab Republic,Air pollution abatement,2005,1.0
+TWN,Chinese Taipei,Environment-related technologies,1995,9.17
+TWN,Chinese Taipei,Environment-related technologies,2000,78.33
+TWN,Chinese Taipei,Environment-related technologies,2005,386.07
+TWN,Chinese Taipei,Environment-related technologies,2010,944.95
+TWN,Chinese Taipei,Environment-related technologies,2011,1027.25
+TWN,Chinese Taipei,Environment-related technologies,2012,1071.92
+TWN,Chinese Taipei,Environment-related technologies,2013,909.38
+TWN,Chinese Taipei,Environment-related technologies,2014,807.12
+TWN,Chinese Taipei,Environment-related technologies,2015,851.98
+TWN,Chinese Taipei,Environment-related technologies,2016,841.93
+TWN,Chinese Taipei,Environment-related technologies,2017,865.7
+TWN,Chinese Taipei,Environment-related technologies,2018,821.85
+TWN,Chinese Taipei,Environment-related technologies,2019,688.45
+TWN,Chinese Taipei,Air pollution abatement,1995,0.5
+TWN,Chinese Taipei,Air pollution abatement,2000,12.0
+TWN,Chinese Taipei,Air pollution abatement,2005,33.37
+TWN,Chinese Taipei,Air pollution abatement,2010,34.67
+TWN,Chinese Taipei,Air pollution abatement,2011,44.33
+TWN,Chinese Taipei,Air pollution abatement,2012,43.0
+TWN,Chinese Taipei,Air pollution abatement,2013,41.5
+TWN,Chinese Taipei,Air pollution abatement,2014,63.3
+TWN,Chinese Taipei,Air pollution abatement,2015,55.33
+TWN,Chinese Taipei,Air pollution abatement,2016,47.0
+TWN,Chinese Taipei,Air pollution abatement,2017,53.33
+TWN,Chinese Taipei,Air pollution abatement,2018,68.0
+TWN,Chinese Taipei,Air pollution abatement,2019,62.83
+TJK,Tajikistan,Environment-related technologies,2005,0.33
+TJK,Tajikistan,Environment-related technologies,2018,1.0
+TJK,Tajikistan,Air pollution abatement,2005,0.33
+TZA,Tanzania,Environment-related technologies,2010,0.25
+TZA,Tanzania,Environment-related technologies,2014,0.33
+THA,Thailand,Environment-related technologies,1995,0.5
+THA,Thailand,Environment-related technologies,2000,3.33
+THA,Thailand,Environment-related technologies,2005,6.33
+THA,Thailand,Environment-related technologies,2010,20.67
+THA,Thailand,Environment-related technologies,2011,14.5
+THA,Thailand,Environment-related technologies,2012,15.0
+THA,Thailand,Environment-related technologies,2013,13.58
+THA,Thailand,Environment-related technologies,2014,16.0
+THA,Thailand,Environment-related technologies,2015,28.17
+THA,Thailand,Environment-related technologies,2016,21.92
+THA,Thailand,Environment-related technologies,2017,17.5
+THA,Thailand,Environment-related technologies,2018,16.5
+THA,Thailand,Environment-related technologies,2019,9.5
+THA,Thailand,Air pollution abatement,2010,4.33
+THA,Thailand,Air pollution abatement,2011,0.5
+THA,Thailand,Air pollution abatement,2012,0.5
+THA,Thailand,Air pollution abatement,2013,1.0
+THA,Thailand,Air pollution abatement,2014,4.5
+THA,Thailand,Air pollution abatement,2015,4.5
+THA,Thailand,Air pollution abatement,2016,8.5
+THA,Thailand,Air pollution abatement,2017,2.75
+THA,Thailand,Air pollution abatement,2018,1.5
+THA,Thailand,Air pollution abatement,2019,2.5
+TGO,Togo,Environment-related technologies,2013,0.5
+TGO,Togo,Environment-related technologies,2015,3.33
+TTO,Trinidad and Tobago,Environment-related technologies,1995,2.5
+TTO,Trinidad and Tobago,Environment-related technologies,2005,1.37
+TTO,Trinidad and Tobago,Environment-related technologies,2010,0.7
+TTO,Trinidad and Tobago,Environment-related technologies,2011,1.0
+TTO,Trinidad and Tobago,Environment-related technologies,2014,1.83
+TTO,Trinidad and Tobago,Environment-related technologies,2017,1.0
+TTO,Trinidad and Tobago,Air pollution abatement,1995,0.33
+TTO,Trinidad and Tobago,Air pollution abatement,2005,0.2
+TTO,Trinidad and Tobago,Air pollution abatement,2014,1.83
+TUN,Tunisia,Environment-related technologies,1995,0.67
+TUN,Tunisia,Environment-related technologies,2005,3.5
+TUN,Tunisia,Environment-related technologies,2010,4.67
+TUN,Tunisia,Environment-related technologies,2011,3.67
+TUN,Tunisia,Environment-related technologies,2012,3.33
+TUN,Tunisia,Environment-related technologies,2013,1.83
+TUN,Tunisia,Environment-related technologies,2014,0.58
+TUN,Tunisia,Environment-related technologies,2015,2.67
+TUN,Tunisia,Environment-related technologies,2016,4.0
+TUN,Tunisia,Environment-related technologies,2017,3.33
+TUN,Tunisia,Environment-related technologies,2018,4.0
+TUN,Tunisia,Environment-related technologies,2019,1.0
+TUN,Tunisia,Air pollution abatement,2005,1.5
+TUN,Tunisia,Air pollution abatement,2013,1.0
+TUN,Tunisia,Air pollution abatement,2015,0.5
+TUN,Tunisia,Air pollution abatement,2016,1.0
+TKM,Turkmenistan,Environment-related technologies,2015,1.0
+TKM,Turkmenistan,Environment-related technologies,2017,1.0
+TKM,Turkmenistan,Environment-related technologies,2018,1.0
+TUV,Tuvalu,Environment-related technologies,2010,0.25
+UGA,Uganda,Environment-related technologies,2017,0.5
+UGA,Uganda,Environment-related technologies,2018,0.5
+UKR,Ukraine,Environment-related technologies,1995,9.0
+UKR,Ukraine,Environment-related technologies,2000,19.67
+UKR,Ukraine,Environment-related technologies,2005,30.92
+UKR,Ukraine,Environment-related technologies,2010,46.27
+UKR,Ukraine,Environment-related technologies,2011,39.17
+UKR,Ukraine,Environment-related technologies,2012,32.57
+UKR,Ukraine,Environment-related technologies,2013,32.52
+UKR,Ukraine,Environment-related technologies,2014,22.42
+UKR,Ukraine,Environment-related technologies,2015,25.0
+UKR,Ukraine,Environment-related technologies,2016,19.08
+UKR,Ukraine,Environment-related technologies,2017,34.5
+UKR,Ukraine,Environment-related technologies,2018,26.83
+UKR,Ukraine,Environment-related technologies,2019,30.5
+UKR,Ukraine,Air pollution abatement,2000,2.5
+UKR,Ukraine,Air pollution abatement,2005,4.0
+UKR,Ukraine,Air pollution abatement,2010,6.25
+UKR,Ukraine,Air pollution abatement,2011,4.0
+UKR,Ukraine,Air pollution abatement,2012,6.33
+UKR,Ukraine,Air pollution abatement,2013,3.5
+UKR,Ukraine,Air pollution abatement,2015,3.0
+UKR,Ukraine,Air pollution abatement,2016,1.5
+UKR,Ukraine,Air pollution abatement,2017,6.5
+UKR,Ukraine,Air pollution abatement,2018,3.83
+UKR,Ukraine,Air pollution abatement,2019,1.5
+ARE,United Arab Emirates,Environment-related technologies,1995,0.33
+ARE,United Arab Emirates,Environment-related technologies,2000,0.5
+ARE,United Arab Emirates,Environment-related technologies,2005,2.65
+ARE,United Arab Emirates,Environment-related technologies,2010,6.5
+ARE,United Arab Emirates,Environment-related technologies,2011,10.42
+ARE,United Arab Emirates,Environment-related technologies,2012,6.58
+ARE,United Arab Emirates,Environment-related technologies,2013,10.33
+ARE,United Arab Emirates,Environment-related technologies,2014,9.2
+ARE,United Arab Emirates,Environment-related technologies,2015,15.33
+ARE,United Arab Emirates,Environment-related technologies,2016,5.33
+ARE,United Arab Emirates,Environment-related technologies,2017,13.12
+ARE,United Arab Emirates,Environment-related technologies,2018,9.25
+ARE,United Arab Emirates,Environment-related technologies,2019,8.17
+ARE,United Arab Emirates,Air pollution abatement,2005,1.7
+ARE,United Arab Emirates,Air pollution abatement,2010,0.83
+ARE,United Arab Emirates,Air pollution abatement,2011,1.0
+ARE,United Arab Emirates,Air pollution abatement,2012,1.5
+ARE,United Arab Emirates,Air pollution abatement,2013,1.5
+ARE,United Arab Emirates,Air pollution abatement,2014,3.0
+ARE,United Arab Emirates,Air pollution abatement,2015,3.0
+ARE,United Arab Emirates,Air pollution abatement,2016,1.5
+ARE,United Arab Emirates,Air pollution abatement,2017,0.33
+ARE,United Arab Emirates,Air pollution abatement,2019,2.0
+URY,Uruguay,Environment-related technologies,2005,1.0
+URY,Uruguay,Environment-related technologies,2010,1.0
+URY,Uruguay,Environment-related technologies,2011,1.5
+URY,Uruguay,Environment-related technologies,2012,2.75
+URY,Uruguay,Environment-related technologies,2013,5.5
+URY,Uruguay,Environment-related technologies,2014,4.25
+URY,Uruguay,Environment-related technologies,2015,1.0
+URY,Uruguay,Environment-related technologies,2016,2.0
+URY,Uruguay,Environment-related technologies,2018,0.5
+URY,Uruguay,Environment-related technologies,2019,2.5
+URY,Uruguay,Air pollution abatement,2013,0.5
+URY,Uruguay,Air pollution abatement,2014,1.5
+URY,Uruguay,Air pollution abatement,2019,1.5
+UZB,Uzbekistan,Environment-related technologies,2000,1.0
+UZB,Uzbekistan,Environment-related technologies,2005,1.0
+UZB,Uzbekistan,Environment-related technologies,2010,1.0
+UZB,Uzbekistan,Environment-related technologies,2011,2.0
+UZB,Uzbekistan,Environment-related technologies,2013,1.83
+UZB,Uzbekistan,Environment-related technologies,2014,1.0
+UZB,Uzbekistan,Environment-related technologies,2016,1.5
+UZB,Uzbekistan,Environment-related technologies,2017,3.5
+UZB,Uzbekistan,Environment-related technologies,2018,0.5
+UZB,Uzbekistan,Air pollution abatement,2014,1.0
+VUT,Vanuatu,Environment-related technologies,2000,0.5
+VEN,Venezuela,Environment-related technologies,1995,0.33
+VEN,Venezuela,Environment-related technologies,2000,1.5
+VEN,Venezuela,Environment-related technologies,2005,3.67
+VEN,Venezuela,Environment-related technologies,2010,2.67
+VEN,Venezuela,Environment-related technologies,2011,5.0
+VEN,Venezuela,Environment-related technologies,2012,5.5
+VEN,Venezuela,Environment-related technologies,2013,3.2
+VEN,Venezuela,Environment-related technologies,2014,4.3
+VEN,Venezuela,Environment-related technologies,2015,1.5
+VEN,Venezuela,Environment-related technologies,2016,4.0
+VEN,Venezuela,Environment-related technologies,2017,0.5
+VEN,Venezuela,Environment-related technologies,2018,1.33
+VEN,Venezuela,Air pollution abatement,1995,0.33
+VEN,Venezuela,Air pollution abatement,2005,2.5
+VEN,Venezuela,Air pollution abatement,2010,0.33
+VEN,Venezuela,Air pollution abatement,2011,0.33
+VEN,Venezuela,Air pollution abatement,2012,2.0
+VEN,Venezuela,Air pollution abatement,2013,0.5
+VEN,Venezuela,Air pollution abatement,2014,0.2
+VEN,Venezuela,Air pollution abatement,2016,1.5
+VNM,Viet Nam,Environment-related technologies,1995,0.33
+VNM,Viet Nam,Environment-related technologies,2005,5.33
+VNM,Viet Nam,Environment-related technologies,2010,3.03
+VNM,Viet Nam,Environment-related technologies,2011,8.83
+VNM,Viet Nam,Environment-related technologies,2012,9.62
+VNM,Viet Nam,Environment-related technologies,2013,4.92
+VNM,Viet Nam,Environment-related technologies,2014,14.4
+VNM,Viet Nam,Environment-related technologies,2015,12.25
+VNM,Viet Nam,Environment-related technologies,2016,14.83
+VNM,Viet Nam,Environment-related technologies,2017,15.08
+VNM,Viet Nam,Environment-related technologies,2018,21.12
+VNM,Viet Nam,Environment-related technologies,2019,8.17
+VNM,Viet Nam,Air pollution abatement,1995,0.33
+VNM,Viet Nam,Air pollution abatement,2011,0.33
+VNM,Viet Nam,Air pollution abatement,2012,0.5
+VNM,Viet Nam,Air pollution abatement,2013,0.33
+VNM,Viet Nam,Air pollution abatement,2014,1.0
+VNM,Viet Nam,Air pollution abatement,2016,0.5
+VNM,Viet Nam,Air pollution abatement,2017,1.17
+VNM,Viet Nam,Air pollution abatement,2018,1.5
+VNM,Viet Nam,Air pollution abatement,2019,1.0
+VIR,United States Virgin Islands,Environment-related technologies,1995,0.33
+VIR,United States Virgin Islands,Environment-related technologies,2017,0.5
+YEM,Yemen,Environment-related technologies,2011,0.83
+YEM,Yemen,Environment-related technologies,2012,0.5
+YEM,Yemen,Environment-related technologies,2013,0.5
+YEM,Yemen,Environment-related technologies,2015,0.5
+ZMB,Zambia,Environment-related technologies,2015,1.0
+ZMB,Zambia,Environment-related technologies,2017,1.0
+ZMB,Zambia,Environment-related technologies,2018,1.0
+ZWE,Zimbabwe,Environment-related technologies,2000,0.5
+ZWE,Zimbabwe,Environment-related technologies,2005,0.5
+ZWE,Zimbabwe,Environment-related technologies,2012,0.75
+ZWE,Zimbabwe,Environment-related technologies,2014,0.33
+ZWE,Zimbabwe,Environment-related technologies,2016,0.33
+ZWE,Zimbabwe,Environment-related technologies,2017,0.5
+ZWE,Zimbabwe,Environment-related technologies,2018,0.67
+ZWE,Zimbabwe,Environment-related technologies,2019,0.33
+ZWE,Zimbabwe,Air pollution abatement,2012,0.5
+ZWE,Zimbabwe,Air pollution abatement,2018,0.67
+ZWE,Zimbabwe,Air pollution abatement,2019,0.33
+WLD,World,Environment-related technologies,1995,9918.0
+WLD,World,Environment-related technologies,2000,17269.0
+WLD,World,Environment-related technologies,2005,24425.0
+WLD,World,Environment-related technologies,2010,38666.0
+WLD,World,Environment-related technologies,2011,41914.0
+WLD,World,Environment-related technologies,2012,42721.0
+WLD,World,Environment-related technologies,2013,42272.0
+WLD,World,Environment-related technologies,2014,40646.0
+WLD,World,Environment-related technologies,2015,40731.0
+WLD,World,Environment-related technologies,2016,42330.0
+WLD,World,Environment-related technologies,2017,43632.0
+WLD,World,Environment-related technologies,2018,42194.0
+WLD,World,Environment-related technologies,2019,38114.0
+WLD,World,Air pollution abatement,1995,2851.0
+WLD,World,Air pollution abatement,2000,4703.0
+WLD,World,Air pollution abatement,2005,6079.0
+WLD,World,Air pollution abatement,2010,8301.0
+WLD,World,Air pollution abatement,2011,6506.0
+WLD,World,Air pollution abatement,2012,6534.0
+WLD,World,Air pollution abatement,2013,7033.0
+WLD,World,Air pollution abatement,2014,8939.0
+WLD,World,Air pollution abatement,2015,7162.0
+WLD,World,Air pollution abatement,2016,6702.0
+WLD,World,Air pollution abatement,2017,6473.0
+WLD,World,Air pollution abatement,2018,7661.0
+WLD,World,Air pollution abatement,2019,4845.0
+MAC,"Macau, China",Environment-related technologies,2010,1.0
+MAC,"Macau, China",Environment-related technologies,2011,0.5
+MAC,"Macau, China",Environment-related technologies,2015,3.5
+MAC,"Macau, China",Environment-related technologies,2016,0.5
+MAC,"Macau, China",Environment-related technologies,2017,0.5
+MAC,"Macau, China",Environment-related technologies,2019,0.5
+MAC,"Macau, China",Air pollution abatement,2010,0.5
+MAC,"Macau, China",Air pollution abatement,2019,0.5
+SRB,Serbia,Environment-related technologies,2010,13.32
+SRB,Serbia,Environment-related technologies,2011,14.98
+SRB,Serbia,Environment-related technologies,2012,3.08
+SRB,Serbia,Environment-related technologies,2013,4.58
+SRB,Serbia,Environment-related technologies,2014,5.83
+SRB,Serbia,Environment-related technologies,2015,4.83
+SRB,Serbia,Environment-related technologies,2016,7.33
+SRB,Serbia,Environment-related technologies,2017,9.53
+SRB,Serbia,Environment-related technologies,2018,9.0
+SRB,Serbia,Environment-related technologies,2019,4.83
+SRB,Serbia,Air pollution abatement,2010,2.45
+SRB,Serbia,Air pollution abatement,2011,2.78
+SRB,Serbia,Air pollution abatement,2012,0.92
+SRB,Serbia,Air pollution abatement,2013,0.5
+SRB,Serbia,Air pollution abatement,2014,2.0
+SRB,Serbia,Air pollution abatement,2017,0.75
+SRB,Serbia,Air pollution abatement,2018,0.67
+SRB,Serbia,Air pollution abatement,2019,1.5
+MNE,Montenegro,Environment-related technologies,2005,3.25
+MNE,Montenegro,Environment-related technologies,2011,0.2
+MNE,Montenegro,Environment-related technologies,2013,1.0
+MNE,Montenegro,Environment-related technologies,2015,0.5
+MNE,Montenegro,Environment-related technologies,2017,0.5
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Environment-related technologies,1995,102.92
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Environment-related technologies,2000,280.67
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Environment-related technologies,2005,895.54
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Environment-related technologies,2010,2539.97
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Environment-related technologies,2011,2750.22
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Environment-related technologies,2012,3002.11
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Environment-related technologies,2013,3098.49
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Environment-related technologies,2014,3224.47
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Environment-related technologies,2015,3722.03
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Environment-related technologies,2016,4813.42
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Environment-related technologies,2017,5734.33
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Environment-related technologies,2018,6197.31
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Environment-related technologies,2019,6393.0
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Air pollution abatement,1995,16.33
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Air pollution abatement,2000,49.0
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Air pollution abatement,2005,153.03
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Air pollution abatement,2010,306.75
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Air pollution abatement,2011,354.63
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Air pollution abatement,2012,315.95
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Air pollution abatement,2013,368.12
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Air pollution abatement,2014,424.63
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Air pollution abatement,2015,467.07
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Air pollution abatement,2016,517.72
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Air pollution abatement,2017,610.12
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Air pollution abatement,2018,622.55
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",Air pollution abatement,2019,703.0
+OECD,OECD - Total,Environment-related technologies,1995,9728.5
+OECD,OECD - Total,Environment-related technologies,2000,16750.33
+OECD,OECD - Total,Environment-related technologies,2005,22801.5
+OECD,OECD - Total,Environment-related technologies,2010,34697.13
+OECD,OECD - Total,Environment-related technologies,2011,37491.66
+OECD,OECD - Total,Environment-related technologies,2012,38011.08
+OECD,OECD - Total,Environment-related technologies,2013,37580.39
+OECD,OECD - Total,Environment-related technologies,2014,36070.45
+OECD,OECD - Total,Environment-related technologies,2015,35476.17
+OECD,OECD - Total,Environment-related technologies,2016,35951.16
+OECD,OECD - Total,Environment-related technologies,2017,36179.96
+OECD,OECD - Total,Environment-related technologies,2018,34633.65
+OECD,OECD - Total,Environment-related technologies,2019,30305.95
+OECD,OECD - Total,Air pollution abatement,1995,2830.33
+OECD,OECD - Total,Air pollution abatement,2000,4631.5
+OECD,OECD - Total,Air pollution abatement,2005,5860.02
+OECD,OECD - Total,Air pollution abatement,2010,7897.95
+OECD,OECD - Total,Air pollution abatement,2011,6126.97
+OECD,OECD - Total,Air pollution abatement,2012,6162.43
+OECD,OECD - Total,Air pollution abatement,2013,6605.82
+OECD,OECD - Total,Air pollution abatement,2014,8357.98
+OECD,OECD - Total,Air pollution abatement,2015,6657.1
+OECD,OECD - Total,Air pollution abatement,2016,6133.43
+OECD,OECD - Total,Air pollution abatement,2017,5805.07
+OECD,OECD - Total,Air pollution abatement,2018,6899.7
+OECD,OECD - Total,Air pollution abatement,2019,4141.08
+OECDE,OECD - Europe,Environment-related technologies,1995,3583.68
+OECDE,OECD - Europe,Environment-related technologies,2000,5839.58
+OECDE,OECD - Europe,Environment-related technologies,2005,7067.74
+OECDE,OECD - Europe,Environment-related technologies,2010,11578.75
+OECDE,OECD - Europe,Environment-related technologies,2011,12370.77
+OECDE,OECD - Europe,Environment-related technologies,2012,12064.79
+OECDE,OECD - Europe,Environment-related technologies,2013,11211.63
+OECDE,OECD - Europe,Environment-related technologies,2014,11006.61
+OECDE,OECD - Europe,Environment-related technologies,2015,10853.25
+OECDE,OECD - Europe,Environment-related technologies,2016,10751.52
+OECDE,OECD - Europe,Environment-related technologies,2017,11186.13
+OECDE,OECD - Europe,Environment-related technologies,2018,11156.13
+OECDE,OECD - Europe,Environment-related technologies,2019,10066.89
+OECDE,OECD - Europe,Air pollution abatement,1995,1074.22
+OECDE,OECD - Europe,Air pollution abatement,2000,1956.13
+OECDE,OECD - Europe,Air pollution abatement,2005,2146.23
+OECDE,OECD - Europe,Air pollution abatement,2010,2966.17
+OECDE,OECD - Europe,Air pollution abatement,2011,2421.47
+OECDE,OECD - Europe,Air pollution abatement,2012,2313.8
+OECDE,OECD - Europe,Air pollution abatement,2013,2314.56
+OECDE,OECD - Europe,Air pollution abatement,2014,2927.03
+OECDE,OECD - Europe,Air pollution abatement,2015,2416.17
+OECDE,OECD - Europe,Air pollution abatement,2016,2267.88
+OECDE,OECD - Europe,Air pollution abatement,2017,2125.94
+OECDE,OECD - Europe,Air pollution abatement,2018,2511.18
+OECDE,OECD - Europe,Air pollution abatement,2019,1420.27
+EA19,Euro area (19 countries),Environment-related technologies,1995,2716.05
+EA19,Euro area (19 countries),Environment-related technologies,2000,4678.98
+EA19,Euro area (19 countries),Environment-related technologies,2005,5580.71
+EA19,Euro area (19 countries),Environment-related technologies,2010,8963.16
+EA19,Euro area (19 countries),Environment-related technologies,2011,9520.59
+EA19,Euro area (19 countries),Environment-related technologies,2012,9322.76
+EA19,Euro area (19 countries),Environment-related technologies,2013,8562.17
+EA19,Euro area (19 countries),Environment-related technologies,2014,8388.46
+EA19,Euro area (19 countries),Environment-related technologies,2015,8244.27
+EA19,Euro area (19 countries),Environment-related technologies,2016,8131.59
+EA19,Euro area (19 countries),Environment-related technologies,2017,8544.32
+EA19,Euro area (19 countries),Environment-related technologies,2018,8518.3
+EA19,Euro area (19 countries),Environment-related technologies,2019,7562.95
+EA19,Euro area (19 countries),Air pollution abatement,1995,866.57
+EA19,Euro area (19 countries),Air pollution abatement,2000,1721.2
+EA19,Euro area (19 countries),Air pollution abatement,2005,1813.17
+EA19,Euro area (19 countries),Air pollution abatement,2010,2392.48
+EA19,Euro area (19 countries),Air pollution abatement,2011,2009.68
+EA19,Euro area (19 countries),Air pollution abatement,2012,1872.12
+EA19,Euro area (19 countries),Air pollution abatement,2013,1841.23
+EA19,Euro area (19 countries),Air pollution abatement,2014,2360.92
+EA19,Euro area (19 countries),Air pollution abatement,2015,1952.42
+EA19,Euro area (19 countries),Air pollution abatement,2016,1797.15
+EA19,Euro area (19 countries),Air pollution abatement,2017,1690.85
+EA19,Euro area (19 countries),Air pollution abatement,2018,2111.35
+EA19,Euro area (19 countries),Air pollution abatement,2019,1144.12
+EU27_2020,European Union – 27 countries (from 01/02/2020),Environment-related technologies,1995,2993.87
+EU27_2020,European Union – 27 countries (from 01/02/2020),Environment-related technologies,2000,5043.92
+EU27_2020,European Union – 27 countries (from 01/02/2020),Environment-related technologies,2005,6076.16
+EU27_2020,European Union – 27 countries (from 01/02/2020),Environment-related technologies,2010,9975.48
+EU27_2020,European Union – 27 countries (from 01/02/2020),Environment-related technologies,2011,10592.63
+EU27_2020,European Union – 27 countries (from 01/02/2020),Environment-related technologies,2012,10392.29
+EU27_2020,European Union – 27 countries (from 01/02/2020),Environment-related technologies,2013,9528.37
+EU27_2020,European Union – 27 countries (from 01/02/2020),Environment-related technologies,2014,9391.44
+EU27_2020,European Union – 27 countries (from 01/02/2020),Environment-related technologies,2015,9215.61
+EU27_2020,European Union – 27 countries (from 01/02/2020),Environment-related technologies,2016,9187.78
+EU27_2020,European Union – 27 countries (from 01/02/2020),Environment-related technologies,2017,9611.67
+EU27_2020,European Union – 27 countries (from 01/02/2020),Environment-related technologies,2018,9535.54
+EU27_2020,European Union – 27 countries (from 01/02/2020),Environment-related technologies,2019,8514.65
+EU27_2020,European Union – 27 countries (from 01/02/2020),Air pollution abatement,1995,947.93
+EU27_2020,European Union – 27 countries (from 01/02/2020),Air pollution abatement,2000,1803.57
+EU27_2020,European Union – 27 countries (from 01/02/2020),Air pollution abatement,2005,1927.1
+EU27_2020,European Union – 27 countries (from 01/02/2020),Air pollution abatement,2010,2676.49
+EU27_2020,European Union – 27 countries (from 01/02/2020),Air pollution abatement,2011,2149.68
+EU27_2020,European Union – 27 countries (from 01/02/2020),Air pollution abatement,2012,2053.78
+EU27_2020,European Union – 27 countries (from 01/02/2020),Air pollution abatement,2013,2037.73
+EU27_2020,European Union – 27 countries (from 01/02/2020),Air pollution abatement,2014,2619.13
+EU27_2020,European Union – 27 countries (from 01/02/2020),Air pollution abatement,2015,2138.58
+EU27_2020,European Union – 27 countries (from 01/02/2020),Air pollution abatement,2016,1998.57
+EU27_2020,European Union – 27 countries (from 01/02/2020),Air pollution abatement,2017,1868.72
+EU27_2020,European Union – 27 countries (from 01/02/2020),Air pollution abatement,2018,2272.52
+EU27_2020,European Union – 27 countries (from 01/02/2020),Air pollution abatement,2019,1244.62
+OECDAM,OECD America,Environment-related technologies,1995,2436.23
+OECDAM,OECD America,Environment-related technologies,2000,4204.02
+OECDAM,OECD America,Environment-related technologies,2005,6107.07
+OECDAM,OECD America,Environment-related technologies,2010,9299.73
+OECDAM,OECD America,Environment-related technologies,2011,9873.7
+OECDAM,OECD America,Environment-related technologies,2012,10672.42
+OECDAM,OECD America,Environment-related technologies,2013,11353.3
+OECDAM,OECD America,Environment-related technologies,2014,10127.0
+OECDAM,OECD America,Environment-related technologies,2015,10082.6
+OECDAM,OECD America,Environment-related technologies,2016,10210.16
+OECDAM,OECD America,Environment-related technologies,2017,10052.78
+OECDAM,OECD America,Environment-related technologies,2018,9404.84
+OECDAM,OECD America,Environment-related technologies,2019,8324.15
+OECDAM,OECD America,Air pollution abatement,1995,549.03
+OECDAM,OECD America,Air pollution abatement,2000,973.03
+OECDAM,OECD America,Air pollution abatement,2005,1284.08
+OECDAM,OECD America,Air pollution abatement,2010,2254.67
+OECDAM,OECD America,Air pollution abatement,2011,1643.27
+OECDAM,OECD America,Air pollution abatement,2012,1716.3
+OECDAM,OECD America,Air pollution abatement,2013,1918.56
+OECDAM,OECD America,Air pollution abatement,2014,2109.9
+OECDAM,OECD America,Air pollution abatement,2015,1554.82
+OECDAM,OECD America,Air pollution abatement,2016,1509.93
+OECDAM,OECD America,Air pollution abatement,2017,1425.69
+OECDAM,OECD America,Air pollution abatement,2018,1675.4
+OECDAM,OECD America,Air pollution abatement,2019,992.03
+OECDAO,OECD Asia Oceania,Environment-related technologies,1995,3708.58
+OECDAO,OECD Asia Oceania,Environment-related technologies,2000,6706.73
+OECDAO,OECD Asia Oceania,Environment-related technologies,2005,9626.7
+OECDAO,OECD Asia Oceania,Environment-related technologies,2010,13818.64
+OECDAO,OECD Asia Oceania,Environment-related technologies,2011,15247.18
+OECDAO,OECD Asia Oceania,Environment-related technologies,2012,15273.87
+OECDAO,OECD Asia Oceania,Environment-related technologies,2013,15015.47
+OECDAO,OECD Asia Oceania,Environment-related technologies,2014,14936.85
+OECDAO,OECD Asia Oceania,Environment-related technologies,2015,14540.32
+OECDAO,OECD Asia Oceania,Environment-related technologies,2016,14989.48
+OECDAO,OECD Asia Oceania,Environment-related technologies,2017,14941.05
+OECDAO,OECD Asia Oceania,Environment-related technologies,2018,14072.68
+OECDAO,OECD Asia Oceania,Environment-related technologies,2019,11914.91
+OECDAO,OECD Asia Oceania,Air pollution abatement,1995,1207.08
+OECDAO,OECD Asia Oceania,Air pollution abatement,2000,1702.33
+OECDAO,OECD Asia Oceania,Air pollution abatement,2005,2429.7
+OECDAO,OECD Asia Oceania,Air pollution abatement,2010,2677.12
+OECDAO,OECD Asia Oceania,Air pollution abatement,2011,2062.23
+OECDAO,OECD Asia Oceania,Air pollution abatement,2012,2132.33
+OECDAO,OECD Asia Oceania,Air pollution abatement,2013,2372.7
+OECDAO,OECD Asia Oceania,Air pollution abatement,2014,3321.05
+OECDAO,OECD Asia Oceania,Air pollution abatement,2015,2686.12
+OECDAO,OECD Asia Oceania,Air pollution abatement,2016,2355.62
+OECDAO,OECD Asia Oceania,Air pollution abatement,2017,2253.45
+OECDAO,OECD Asia Oceania,Air pollution abatement,2018,2713.12
+OECDAO,OECD Asia Oceania,Air pollution abatement,2019,1728.78
+BEN,Benin,Environment-related technologies,2012,1.0
+CMR,Cameroon,Air pollution abatement,2016,3.0
+COG,Congo,Air pollution abatement,2016,0.5
+LCA,Saint Lucia,Environment-related technologies,2018,1.0
+PSE,Palestinian Authority or West Bank and Gaza Strip,Environment-related technologies,2014,1.5
+PSE,Palestinian Authority or West Bank and Gaza Strip,Environment-related technologies,2015,1.5
+KHM,Cambodia,Air pollution abatement,2010,0.5

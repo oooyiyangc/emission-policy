@@ -1,0 +1,223 @@
+Continent_Name,Continent_Code,Country_Name,Three_Letter_Country_Code,pop2010
+Asia,AS,"Afghanistan, Islamic Republic of",AFG,29185511.0
+Europe,EU,"Albania, Republic of",ALB,2913021.0
+Africa,AF,"Algeria, People's Democratic Republic of",DZA,35977451.0
+Oceania,OC,American Samoa,ASM,56084.0
+Europe,EU,"Andorra, Principality of",AND,84454.0
+Africa,AF,"Angola, Republic of",AGO,23356247.0
+North America,,Antigua and Barbuda,ATG,88030.0
+Europe,EU,"Azerbaijan, Republic of",AZE,9054332.0
+Asia,AS,"Azerbaijan, Republic of",AZE,9054332.0
+South America,SA,"Argentina, Argentine Republic",ARG,40788453.0
+Oceania,OC,"Australia, Commonwealth of",AUS,22031750.0
+Europe,EU,"Austria, Republic of",AUT,8363404.0
+North America,,"Bahamas, Commonwealth of the",BHS,354936.0
+Asia,AS,"Bahrain, Kingdom of",BHR,1240864.0
+Asia,AS,"Bangladesh, People's Republic of",BGD,147575433.0
+Europe,EU,"Armenia, Republic of",ARM,2877314.0
+Asia,AS,"Armenia, Republic of",ARM,2877314.0
+North America,,Barbados,BRB,282131.0
+Europe,EU,"Belgium, Kingdom of",BEL,10895586.0
+North America,,Bermuda,BMU,65124.0
+Asia,AS,"Bhutan, Kingdom of",BTN,685502.0
+South America,SA,"Bolivia, Republic of",BOL,10048597.0
+Europe,EU,Bosnia and Herzegovina,BIH,3705478.0
+Africa,AF,"Botswana, Republic of",BWA,1987106.0
+South America,SA,"Brazil, Federative Republic of",BRA,195713637.0
+North America,,Belize,BLZ,322465.0
+Oceania,OC,Solomon Islands,SLB,527861.0
+North America,,British Virgin Islands,VGB,27796.0
+Asia,AS,Brunei Darussalam,BRN,388634.0
+Europe,EU,"Bulgaria, Republic of",BGR,7395599.0
+Asia,AS,"Myanmar, Union of",MMR,50600827.0
+Africa,AF,"Burundi, Republic of",BDI,8675606.0
+Europe,EU,"Belarus, Republic of",BLR,9483836.0
+Asia,AS,"Cambodia, Kingdom of",KHM,14312205.0
+Africa,AF,"Cameroon, Republic of",CMR,20341236.0
+North America,,Canada,CAN,34004889.0
+Africa,AF,"Cape Verde, Republic of",CPV,492644.0
+North America,,Cayman Islands,CYM,56672.0
+Africa,AF,Central African Republic,CAF,4386765.0
+Asia,AS,"Sri Lanka, Democratic Socialist Republic of",LKA,20261738.0
+Africa,AF,"Chad, Republic of",TCD,11952134.0
+South America,SA,"Chile, Republic of",CHL,17062531.0
+Asia,AS,"China, People's Republic of",CHN,1337705000.0
+South America,SA,"Colombia, Republic of",COL,45222699.0
+Africa,AF,"Comoros, Union of the",COM,689696.0
+Africa,AF,"Congo, Republic of the",COG,4273738.0
+Africa,AF,"Congo, Democratic Republic of the",COD,64563853.0
+North America,,"Costa Rica, Republic of",CRI,4577371.0
+Europe,EU,"Croatia, Republic of",HRV,4295427.0
+North America,,"Cuba, Republic of",CUB,11225833.0
+Europe,EU,"Cyprus, Republic of",CYP,1112617.0
+Asia,AS,"Cyprus, Republic of",CYP,1112617.0
+Europe,EU,Czech Republic,CZE,10474410.0
+Africa,AF,"Benin, Republic of",BEN,9199254.0
+Europe,EU,"Denmark, Kingdom of",DNK,5547683.0
+North America,,"Dominica, Commonwealth of",DMA,70877.0
+North America,,Dominican Republic,DOM,9695117.0
+South America,SA,"Ecuador, Republic of",ECU,15011114.0
+North America,,"El Salvador, Republic of",SLV,6183877.0
+Africa,AF,"Equatorial Guinea, Republic of",GNQ,943640.0
+Africa,AF,"Ethiopia, Federal Democratic Republic of",ETH,87639962.0
+Africa,AF,"Eritrea, State of",ERI,3170437.0
+Europe,EU,"Estonia, Republic of",EST,1331475.0
+Europe,EU,Faroe Islands,FRO,47803.0
+Oceania,OC,"Fiji, Republic of the Fiji Islands",FJI,859816.0
+Europe,EU,"Finland, Republic of",FIN,5363352.0
+Europe,EU,"France, French Republic",FRA,65027505.0
+Oceania,OC,French Polynesia,PYF,266449.0
+Africa,AF,"Djibouti, Republic of",DJI,840194.0
+Africa,AF,"Gabon, Gabonese Republic",GAB,1624146.0
+Europe,EU,Georgia,GEO,3786695.0
+Asia,AS,Georgia,GEO,3786695.0
+Africa,AF,"Gambia, Republic of the",GMB,1793199.0
+Asia,AS,"Palestinian Territory, Occupied",PSE,3786161.0
+Europe,EU,"Germany, Federal Republic of",DEU,81776930.0
+Africa,AF,"Ghana, Republic of",GHA,24779614.0
+Europe,EU,Gibraltar,GIB,33585.0
+Oceania,OC,"Kiribati, Republic of",KIR,102930.0
+Europe,EU,"Greece, Hellenic Republic",GRC,11121341.0
+North America,,Greenland,GRL,56905.0
+North America,,Grenada,GRD,106227.0
+Oceania,OC,Guam,GUM,159439.0
+North America,,"Guatemala, Republic of",GTM,14259687.0
+Africa,AF,"Guinea, Republic of",GIN,10192168.0
+South America,SA,"Guyana, Co-operative Republic of",GUY,749430.0
+North America,,"Haiti, Republic of",HTI,9949318.0
+North America,,"Honduras, Republic of",HND,8317467.0
+Asia,AS,"Hong Kong, Special Administrative Region of China",HKG,7024200.0
+Europe,EU,"Hungary, Republic of",HUN,10000023.0
+Europe,EU,"Iceland, Republic of",ISL,318041.0
+Asia,AS,"India, Republic of",IND,1234281163.0
+Asia,AS,"Indonesia, Republic of",IDN,241834226.0
+Asia,AS,"Iran, Islamic Republic of",IRN,73762519.0
+Asia,AS,"Iraq, Republic of",IRQ,29741977.0
+Europe,EU,Ireland,IRL,4560155.0
+Asia,AS,"Israel, State of",ISR,7623600.0
+Europe,EU,"Italy, Italian Republic",ITA,59277417.0
+Africa,AF,"Cote d'Ivoire, Republic of",CIV,20532944.0
+North America,,Jamaica,JAM,2810464.0
+Asia,AS,Japan,JPN,128070000.0
+Europe,EU,"Kazakhstan, Republic of",KAZ,16321872.0
+Asia,AS,"Kazakhstan, Republic of",KAZ,16321872.0
+Asia,AS,"Jordan, Hashemite Kingdom of",JOR,7261541.0
+Africa,AF,"Kenya, Republic of",KEN,42030684.0
+Asia,AS,"Korea, Democratic People's Republic of",PRK,24548840.0
+Asia,AS,"Korea, Republic of",KOR,49554112.0
+Asia,AS,"Kuwait, State of",KWT,2991884.0
+Asia,AS,Kyrgyz Republic,KGZ,5447900.0
+Asia,AS,Lao People's Democratic Republic,LAO,6249168.0
+Asia,AS,"Lebanon, Lebanese Republic",LBN,4953064.0
+Africa,AF,"Lesotho, Kingdom of",LSO,1995575.0
+Europe,EU,"Latvia, Republic of",LVA,2097555.0
+Africa,AF,"Liberia, Republic of",LBR,3891357.0
+Africa,AF,Libyan Arab Jamahiriya,LBY,6197667.0
+Europe,EU,"Liechtenstein, Principality of",LIE,35996.0
+Europe,EU,"Lithuania, Republic of",LTU,3097282.0
+Europe,EU,"Luxembourg, Grand Duchy of",LUX,506953.0
+Asia,AS,"Macao, Special Administrative Region of China",MAC,538215.0
+Africa,AF,"Madagascar, Republic of",MDG,21151640.0
+Africa,AF,"Malawi, Republic of",MWI,14539609.0
+Asia,AS,Malaysia,MYS,28208028.0
+Asia,AS,"Maldives, Republic of",MDV,365730.0
+Africa,AF,"Mali, Republic of",MLI,15049352.0
+Europe,EU,"Malta, Republic of",MLT,414508.0
+Africa,AF,"Mauritania, Islamic Republic of",MRT,3494200.0
+Africa,AF,"Mauritius, Republic of",MUS,1250400.0
+North America,,"Mexico, United Mexican States",MEX,114092961.0
+Europe,EU,"Monaco, Principality of",MCO,35609.0
+Asia,AS,Mongolia,MNG,2719902.0
+Europe,EU,"Moldova, Republic of",MDA,2861487.0
+Europe,EU,"Montenegro, Republic of",MNE,619428.0
+Africa,AF,"Morocco, Kingdom of",MAR,32343384.0
+Africa,AF,"Mozambique, Republic of",MOZ,23531567.0
+Asia,AS,"Oman, Sultanate of",OMN,3041435.0
+Africa,AF,"Namibia, Republic of",NAM,2118877.0
+Oceania,OC,"Nauru, Republic of",NRU,10009.0
+Asia,AS,"Nepal, State of",NPL,27013207.0
+Europe,EU,"Netherlands, Kingdom of the",NLD,16615394.0
+North America,,Curaçao,CUW,148703.0
+North America,,Aruba,ABW,101665.0
+North America,,Sint Maarten (Netherlands),SXM,34056.0
+Oceania,OC,New Caledonia,NCL,249750.0
+Oceania,OC,"Vanuatu, Republic of",VUT,236216.0
+Oceania,OC,New Zealand,NZL,4350700.0
+North America,,"Nicaragua, Republic of",NIC,5824058.0
+Africa,AF,"Niger, Republic of",NER,16464025.0
+Africa,AF,"Nigeria, Federal Republic of",NGA,158503203.0
+Europe,EU,"Norway, Kingdom of",NOR,4889252.0
+Oceania,OC,"Northern Mariana Islands, Commonwealth of the",MNP,53971.0
+Oceania,OC,"Micronesia, Federated States of",FSM,102916.0
+Oceania,OC,"Marshall Islands, Republic of the",MHL,56361.0
+Oceania,OC,"Palau, Republic of",PLW,17954.0
+Asia,AS,"Pakistan, Islamic Republic of",PAK,179424643.0
+North America,,"Panama, Republic of",PAN,3642691.0
+Oceania,OC,"Papua New Guinea, Independent State of",PNG,7310512.0
+South America,SA,"Paraguay, Republic of",PRY,6248017.0
+South America,SA,"Peru, Republic of",PER,29027680.0
+Asia,AS,"Philippines, Republic of the",PHL,93966784.0
+Europe,EU,"Poland, Republic of",POL,38042794.0
+Europe,EU,"Portugal, Portuguese Republic",PRT,10573100.0
+Africa,AF,"Guinea-Bissau, Republic of",GNB,1522603.0
+Asia,AS,"Timor-Leste, Democratic Republic of",TLS,1093517.0
+North America,,"Puerto Rico, Commonwealth of",PRI,3721525.0
+Asia,AS,"Qatar, State of",QAT,1856329.0
+Europe,EU,Romania,ROU,20246871.0
+Europe,EU,Russian Federation,RUS,142849468.0
+Asia,AS,Russian Federation,RUS,142849468.0
+Africa,AF,"Rwanda, Republic of",RWA,10039338.0
+North America,,"Saint Kitts and Nevis, Federation of",KNA,49011.0
+North America,,Saint Lucia,LCA,174092.0
+North America,,Saint Martin,MAF,37582.0
+North America,,Saint Vincent and the Grenadines,VCT,108260.0
+Europe,EU,"San Marino, Republic of",SMR,31221.0
+Africa,AF,"Sao Tome and Principe, Democratic Republic of",STP,180372.0
+Asia,AS,"Saudi Arabia, Kingdom of",SAU,27421468.0
+Africa,AF,"Senegal, Republic of",SEN,12678143.0
+Europe,EU,"Serbia, Republic of",SRB,7291436.0
+Africa,AF,"Seychelles, Republic of",SYC,89770.0
+Africa,AF,"Sierra Leone, Republic of",SLE,6415636.0
+Asia,AS,"Singapore, Republic of",SGP,5076732.0
+Europe,EU,Slovakia (Slovak Republic),SVK,5391428.0
+Asia,AS,"Vietnam, Socialist Republic of",VNM,87967655.0
+Europe,EU,"Slovenia, Republic of",SVN,2048583.0
+Africa,AF,"Somalia, Somali Republic",SOM,12043886.0
+Africa,AF,"South Africa, Republic of",ZAF,51216967.0
+Africa,AF,"Zimbabwe, Republic of",ZWE,12697728.0
+Europe,EU,"Spain, Kingdom of",ESP,46576897.0
+Africa,AF,South Sudan,SSD,9508372.0
+Africa,AF,"Sudan, Republic of",SDN,34545014.0
+South America,SA,"Suriname, Republic of",SUR,529126.0
+Africa,AF,"Swaziland, Kingdom of",SWZ,1064841.0
+Europe,EU,"Sweden, Kingdom of",SWE,9378126.0
+Europe,EU,"Switzerland, Swiss Confederation",CHE,7824909.0
+Asia,AS,Syrian Arab Republic,SYR,21362541.0
+Asia,AS,"Tajikistan, Republic of",TJK,7527397.0
+Asia,AS,"Thailand, Kingdom of",THA,67195032.0
+Africa,AF,"Togo, Togolese Republic",TGO,6421674.0
+Oceania,OC,"Tonga, Kingdom of",TON,103981.0
+North America,,"Trinidad and Tobago, Republic of",TTO,1328144.0
+Asia,AS,United Arab Emirates,ARE,8549998.0
+Africa,AF,"Tunisia, Tunisian Republic",TUN,10635245.0
+Europe,EU,"Turkey, Republic of",TUR,72326992.0
+Asia,AS,"Turkey, Republic of",TUR,72326992.0
+Asia,AS,Turkmenistan,TKM,5087211.0
+North America,,Turks and Caicos Islands,TCA,32658.0
+Oceania,OC,Tuvalu,TUV,10521.0
+Africa,AF,"Uganda, Republic of",UGA,32428164.0
+Europe,EU,Ukraine,UKR,45870741.0
+Europe,EU,"Macedonia, The Former Yugoslav Republic of",MKD,2055004.0
+Africa,AF,"Egypt, Arab Republic of",EGY,82761244.0
+Europe,EU,United Kingdom of Great Britain & Northern Ireland,GBR,62766365.0
+Europe,EU,Isle of Man,IMN,84856.0
+Africa,AF,"Tanzania, United Republic of",TZA,44346532.0
+North America,,United States of America,USA,309327143.0
+North America,,United States Virgin Islands,VIR,108357.0
+Africa,AF,Burkina Faso,BFA,15605211.0
+South America,SA,"Uruguay, Eastern Republic of",URY,3359273.0
+Asia,AS,"Uzbekistan, Republic of",UZB,28562400.0
+South America,SA,"Venezuela, Bolivarian Republic of",VEN,28439942.0
+Oceania,OC,"Samoa, Independent State of",WSM,185944.0
+Asia,AS,Yemen,YEM,23154854.0
+Africa,AF,"Zambia, Republic of",ZMB,13605986.0
